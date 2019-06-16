@@ -1,0 +1,123 @@
+# Management Committee members
+# Note: image should be in the /images/mc/ folder
+# Chairperson
+- members:
+  - name: Ng Bo Yan
+    title: Chairperson
+    faculty: Faculty of Engineering
+    year: 4
+    image: boyan.jpg
+
+# Vice Chairperson
+- members:
+  - name: Gabriela Leilani Wijaya
+    title: Vice Chairperson
+    faculty: Faculty of Engineering
+    year: 2
+    image: gabriela.jpg
+  - name: Viriyadhika Putra
+    title: Vice Chairperson
+    faculty: Faculty of Engineering
+    year: 3
+    image: viriya.jpg
+
+# Secretary
+- members:
+  - name: Ronald Santoso
+    title: Secretary
+    faculty: School of Computing
+    year: 3
+    image: ronald.jpg
+  - name: Jiang Yixing
+    title: Secretary
+    faculty: Faculty of Engineering
+    year: 2
+    image: yixing.jpg
+
+# Treasurer
+- members:
+  - name: Gan Xin Ying
+    title: Treasurer
+    faculty: School of Business
+    year: 3
+    image: xinying.jpg
+  - name: Anthony Haryono
+    title: Treasurer
+    faculty: School of Business
+    year: 2
+    image: anthony.jpg
+
+# Logistics & Operations
+- members:
+  - name: Lee Wai Seong
+    title: Logistics & Operations Manager
+    faculty: Faculty of Engineering
+    year: 3
+    image: waiseong.jpg
+  - name: Amrut Prabhu
+    title: Logistics & Operations Manager
+    faculty: School of Computing
+    year: 3
+    image: amrut.jpg
+
+# Marketing
+- members:
+  - name: Choong Wai Kean
+    title: Marketing Manager
+    faculty: Faculty of Engineering
+    year: 3
+    image: waikean.jpg
+  - name: Mirabel Clarissa Reynaldo
+    title: Marketing Manager
+    faculty: School of Business
+    year: 3
+
+# Publicity
+- members:
+  - name: Yan Yu, Aleene Chow
+    title: Publicity Manager
+    faculty: Faculty of Arts and Social Sciences
+    year: 2
+    image: aleene.jpg
+  - name: Indrajaya Tjendra
+    title: Publicity Manager
+    faculty: School of Business
+    year: 4
+    image: injay.jpg
+
+# Technical
+- members:
+  - name: Julius Putra Tanu Setiaji
+    title: Technical Manager
+    faculty: School of Computing
+    year: 2
+  - name: Sreyans Sipani
+    title: Technical Manager
+    faculty: School of Computing
+    year: 2
+    image: sreyans.jpg
+
+# Training
+- members:
+  - name: Nadhira Salsabila
+    title: Training Manager
+    faculty: School of Computing
+    year: 3
+  - name: You Liang, Henry Nah
+    title: Training Manager
+    faculty: School of Business
+    year: 2
+    image: henry.jpg
+
+# Welfare
+- members:
+  - name: Listya Nuansa Putri
+    title: Welfare Manager
+    faculty: Faculty of Science
+    year: 3
+    image: listya.jpg
+  - name: Tiana Singgih
+    title: Welfare Manager
+    faculty: Faculty of Engineering
+    year: 3
+    image: tiana.jpg

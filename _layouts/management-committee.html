@@ -1,0 +1,28 @@
+---
+layout: simple-page
+---
+
+{%- assign management-committee = site.data.management-committee -%}
+{%- for cell in management-committee -%}
+<div class="row is-multiline padding--bottom--lg" id="board-of-directors">
+  {%- for mc in cell.members -%}
+    <div class="col is-half person-info-card padding--right">
+      <div class="row margin--bottom--xs margin--right">
+        <div class="col is-one-third image-col">
+          {%- if mc.image -%}
+            <img class="margin--right--none" src="{{- site.baseurl -}}/images/mc/{{- mc.image -}}">
+          {%- endif -%}
+        </div>
+        <div class="col padding--top padding--bottom bg-table-grey">
+          <p class="is-marginless padding--top--sm">
+            <b>{{- mc.name -}}</b>
+          </p>
+          <h6 class="is-marginless margin--top--xs"><b>{{- mc.title -}}</b></h6>
+          <h6 class="is-marginless margin--top--xs">{{- mc.faculty -}}</h6>
+          <h6 class="is-marginless margin--top--xs">Year&nbsp;{{- mc.year -}}</h6>
+        </div>
+      </div>
+    </div>
+  {%- endfor -%}
+</div>
+{%- endfor -%}

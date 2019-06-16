@@ -1,2 +1,2 @@
-# nussucommit2
-The main website for NUSSU commIT
+# nussucommit
+Main website for NUSSU commIT

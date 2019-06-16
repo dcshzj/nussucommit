@@ -1,0 +1,45 @@
+---
+layout: simple-page
+---
+
+{{- content -}}
+
+{%- assign faq = site.data.faq -%}
+{%- assign i = 0 -%}
+{%- for faq-section in faq -%}
+	<h3 class="margin--top--none">{{- faq-section.title -}}</h3>
+	{%- for question in faq-section.questions -%}
+	<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+		<div class="col is-expanded is-fullwidth is-paddingless">
+			<h5 class="has-text-grey-dark is-marginless"><b> {{- question.question -}}
+			</b></h5>
+		</div>
+		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+	</div>
+	<div id="accordion-body-{{i}}" class="col padding bp-accordion-body">
+			{%- if question.img -%}
+				<div class="bp-container is-full padding--top--lg padding--bottom" style="width: 100%">
+					<div class="row">
+						<div class="col is-8">
+							{%- for line in question.answer -%}
+							<p class="margin--top--none">{{- line.line -}}</p>
+							{%- endfor -%}
+						</div>
+						<div class="col is-4">
+							<img class="bp-image-milestone" src="{{site.baseurl}}{{question.img}}">
+						</div>
+					</div>
+				</div>
+			{%- else -%}
+				{%- for line in question.answer -%}
+				<p class="margin--top--none">{{- line.line -}}</p>
+				{%- endfor -%}
+			{%- endif -%}
+			{% assign i = i | plus:1 %}
+		<br />
+	</div>
+	{%- endfor -%}
+{%- if forloop.last == false -%}
+	<hr style="margin-top: 2em; margin-bottom: 1em;">
+{%- endif -%}
+{%- endfor -%}

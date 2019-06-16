@@ -1,0 +1,77 @@
+##################################
+#                                #
+# Edit this file carefully.      #
+#                                #
+##################################
+
+# <b>BOLD ME</b> is the syntax to bold things
+# <i>ITALICIZE ME</i> is the syntax to italicize things
+
+- title: Registration Procedure and Place
+  questions:
+  - question: How do I register?
+    answer:
+    - line: Login to NUSync (https://orgsync.com/133324/events) and access the NUS Student Union’s portal. Our workshops will be listed under the NUSSU Events. RSVP for our workshop and proceed to make the $5 refundable deposit payment.
+  - question: How do we pay the $5 refundable deposit?
+    answer:
+    - line: Payment is collected at NUSSU commIT computer cluster at YIH level 3 on Monday and Wednesday of the week of the respective workshops, from 1000-1800. Kindly look for our supervisor-on-duty for help.
+  - question: I couldn’t find anyone to register with at the centre.
+    answer:
+    - line: The supervisor might have left a while for a meal or a toilet break. S/he should have left his/her contact on a standing plate located above the supervisor’s computer which is visible from the computer and printing area. Feel free to contact the supervisor on duty.
+  - question: Can I register online?
+    answer:
+    - line: Yes, you can RSVP online now on your own. You are not required to come to our YIH Computer Centre unless during deposit payment.
+    - line: Simply login to NUSync (https://orgsync.com/133324/events) and access the NUS Student Union’s portal. Our workshops will be listed under the NUSSU Events.
+  - question: I could not come to YIH for registration, how should I register?
+    answer:
+    - line: You are required to come down and make the payment. You can ask your friend to make the payment on your behalf.
+  - question: How many vacancies are there in one workshop?
+    answer:
+    - line: There are about 50 vacancies in each workshop. Some will have up to 60 vacancies.
+
+- title: About the Workshops
+  questions:
+  - question: Should I bring my laptop?
+    answer:
+    - line: No. Computers with the installed software is available.
+  - question: Can I use my own laptop?
+    answer:
+    - line: Yes. As long as you have the software installed in your computer. However, currently we have Adobe CC which is the latest version of Adobe suite. It will be a better experience if you have the same version.
+  - question: Where is the workshop location?
+    answer:
+    - line: The location of each workshop is specified in http://nussucommit.com/training-workshops/.
+  - question: What time is the workshop?
+    answer:
+    - line: The timing of each workshop is specified in http://nussucommit.com/training-workshops/.
+  - question: How long is the workshop?
+    answer:
+    - line: Microsoft Excel workshop is 4-hours long. Both Adobe Photoshop and Illustrator workshops are 6 hours long (inclusive of 1-hour break).
+
+- title: Payment of Refundable Deposit
+  questions:
+  - question: How much is the cost of workshops?
+    answer:
+    - line: It is free. However, there will be 5 dollar refundable deposit for registration.
+  - question: I have signed up and I suddenly realized that I could not make it on the day. Can I get my refund back?
+    answer:
+    - line: We will return the deposit if you inform us about your situation latest by 9.00pm, Wednesday on the week of the respective workshop. Otherwise, your deposit will be forfeited regardless of any reasons given.
+    - line: (Refundable deposit is implemented to ensure everyone who has signed up is responsible for their registration as there is limited vacancies)
+
+- title: Materials Coverage
+  questions:
+  - question: Who are the trainers?
+    answer:
+    - line: The trainer are NUS students who has proficiency in the software. There will be 3-4 trainers with 4-5 helpers.
+  - question: I already know the basics. Can I come only for the later part?
+    answer:
+    - line: Yes, you can. However, we recommend just sitting in for the entire thing because there may be some continuing exercises for certain workshops.
+
+- title: About NUSSU commIT
+  questions:
+  - question: What is NUSSU commIT?
+    answer:
+    - line: NUSSU commIT is a CCA under NUSSU welfare wing which provide IT and software training services for NUS students.
+  - question: What does NUSSU commIT do?
+    answer:
+    - line: Each semester, NUSSU commIT provides various Adobe workshops and(/or) VBA workshop. NUSSU commIT also organized two major project, CYBERIA CAMP and CHARITEACH. CYBERIA CAMP is a 3 days 2 nights camp where the participants will learn about Adobe software taught by professionals. Certified certificate will be given upon completing Cyberia Camp. CHARITEACH is a 2 days packed of learning and teaching. In day 1, participants will received up to 6 hours of training by professionals. In day 2, participants will teach our beneficiaries for up to 2 hours and playing some games with them.
+    - line: We are also in charge of handling two PC clusters and printing centre in NUS, namely the Central Library PC Cluster and YIH NUSSU commIT Centre. We offer both printing and scanning services but do not provide photocopy services.

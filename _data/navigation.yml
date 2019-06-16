@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Edit this file carefully.      #
+#                                #
+##################################
+
+# This file contains the structure for the top navigation and bottom footer
+
+- title: About Us
+  url: /about-us/
+  sub-links:
+  - title: Our Family
+    url: /about-us/our-family/
+  - title: Vision & Mission
+    url: /about-us/vision-mission/
+  - title: Our Structure
+    url: /about-us/our-structure/
+  - title: Management Committee
+    url: /about-us/management-committee/
+- title: Services
+  url: /computer-centres/
+  sub-links:
+  - title: Computer Centres
+    url: /computer-centres/
+  - title: Training Workshops
+    url: /training-workshops/
+- title: Projects
+  url: /projects/
+  sub-links:
+  - title: Cyberia
+    url: /projects/cyberia/
+  - title: Creation
+    url: /projects/creation/
+  - title: CharITeach
+    url: /projects/chariteach/
+- title: FAQ
+  url: /faq/
+- title: Contact Us
+  url: /contact-us/

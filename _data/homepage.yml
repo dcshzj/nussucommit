@@ -1,0 +1,94 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /assets/img/favicon.ico
+
+# Logo
+logo: /images/logo.png
+
+# Google analytics
+google-analytics: UA-test
+
+# Hero Banner
+hero-title: Serving the NUS community
+hero-subtitle: From providing IT training workshops to operating 2 computer centres. NUSSU commIT serves the NUS community by providing quality IT services.
+hero-banner: /images/banner.jpg
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /about-us/
+
+# Key Highlights
+key-highlights:
+  - title: Templates and Forms
+    description: Downladable templates and forms
+    url: /resource_room/
+    external: false
+  - title: Google
+    description: LMGTFY
+    url: https://google.com
+    external: true
+  - title: Yahoo
+    description: Another search engine
+    url: https://yahoo.com/
+    external: true
+  - title: Wikipedia
+    description: More information
+    url: https://wikipedia.org
+    external: true
+
+# Info Sections
+# info-sections:
+#   - section-title: Users
+#     section-subtitle: Hassle-free registration
+#     section-description: We streamline your user registration process by removing your need for password and user management.
+#     section-more-button: API References
+#     section-more-button-url: /citizens/
+#     section-image-path: /images/digital-transformation/govtech-hive.jpg
+#   - section-title: Developers
+#     section-subtitle: Develop seamlessly
+#     section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
+#     section-more-button: Stuff
+#     section-more-button-url: /citizens/
+#     section-image-path: /images/digital-transformation/govtech-hive.jpg
+#   - section-title: Users
+#     section-subtitle: Hassle-free registration
+#     section-description: We streamline your user registration process by removing your need for password and user management.
+#     section-more-button: Stuff
+#     section-more-button-url: /citizens/
+#     section-image-path: /images/digital-transformation/govtech-hive.jpg
+#   - section-title: Developers
+#     section-subtitle: Develop seamlessly
+#     section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
+#     section-more-button: API References
+#     section-more-button-url: /citizens/
+#     section-image-path: /images/digital-transformation/govtech-hive.jpg
+
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: Programmes
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.
+programmes-more-button: More Programmes
+programmes-more-button-url:
+
+# Resources Section
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: /resource_room/
+
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+careers-title: Careers
+careers-subtitle: Be part of the digital transformation
+careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
+careers-more-button: Explore Opportunities
+careers-more-button-url: https://www.tech.gov.sg/sub/careers
+
+
