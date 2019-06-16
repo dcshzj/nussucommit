@@ -56,7 +56,7 @@ contact:
 locations:
 # Use the following for normal semester time:
 # - name: YIH Computer Centre
-#   address: "Yusof Ishak House<br>National University of Singapore<br>31 Lower Kent Ridge Road #03-10<br>Singapore 119078"
+#   address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
 #   hours:
 #   - days: "Monday - Friday"
 #     time: "08:30 - 21:00"
@@ -66,7 +66,7 @@ locations:
 #     time: "09:30 - 15:00"
 #   description: "Closed on public holidays"
 # - name: AS8 Computer Centre
-#   address: "Blk AS8<br>National University of Singapore<br>10 Kent Ridge Crescent #02-01<br>Singapore 119260"
+#   address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
 #   hours:
 #   - days: "Monday - Friday"
 #     time: "08:00 - 21:00"
@@ -76,7 +76,7 @@ locations:
 
 # Use the following for holidays:
 - name: YIH Computer Centre
-  address: "Yusof Ishak House<br>National University of Singapore<br>31 Lower Kent Ridge Road #03-10<br>Singapore 119078"
+  address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
   hours:
   - days: "Monday - Friday"
     time: "08:30 - 19:00"
@@ -84,7 +84,7 @@ locations:
     time: "08:30 - 15:00"
   description: "Closed on Sundays and public holidays<br>Note: Our operating hours are shorter due to the university vacation"
 - name: AS8 Computer Centre
-  address: "Blk AS8<br>National University of Singapore<br>10 Kent Ridge Crescent #02-01<br>Singapore 119260"
+  address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
   hours:
   - days: "Monday - Friday"
     time: "08:00 - 19:00"
@@ -94,7 +94,7 @@ locations:
 
 # Use the following for exam period:
 # - name: YIH Computer Centre
-#   address: "Yusof Ishak House<br>National University of Singapore<br>31 Lower Kent Ridge Road #03-10<br>Singapore 119078"
+#   address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
 #   hours:
 #   - days: "Monday - Friday"
 #     time: "08:30 - 21:00"
@@ -104,7 +104,7 @@ locations:
 #     time: "09:30 - 15:00"
 #   description: "Closed on public holidays<br>Note: Our operating hours are extended for the exam period"
 # - name: AS8 Computer Centre
-#   address: "Blk AS8<br>National University of Singapore<br>10 Kent Ridge Crescent #02-01<br>Singapore 119260"
+#   address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
 #   hours:
 #   - days: "Monday - Friday"
 #     time: "08:00 - 21:00"
