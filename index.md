@@ -1,6 +1,5 @@
 ---
 layout: homepage
-title: NUSSU commIT
 description: We are part of the National University of Singapore Students' Union (NUSSU) that focuses on providing quality IT services for the NUS community.
 permalink: /
 ---

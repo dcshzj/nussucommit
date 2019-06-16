@@ -41,5 +41,9 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,600" crossorigin="anonymous">
     {%- feed_meta -%}
 
+    {%- if page.title -%}
     <title>{{- page.title | strip_html -}}&nbsp;-&nbsp;{{- site.title-abbreviated -}}</title>
+    {%- else -%}
+    <title>{{- site.title-abbreviated -}}</title>
+    {%- endif -%}
 </head>
