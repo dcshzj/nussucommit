@@ -24,15 +24,15 @@
     url: /computer-centres/
   - title: Training Workshops
     url: /training-workshops/
-- title: Projects
-  url: /projects/
+- title: Events
+  url: /events/
   sub-links:
   - title: Cyberia
-    url: /projects/cyberia/
+    url: /events/cyberia/
   - title: Creation
-    url: /projects/creation/
+    url: /events/creation/
   - title: CharITeach
-    url: /projects/chariteach/
+    url: /events/chariteach/
 - title: FAQ
   url: /faq/
 - title: Contact Us

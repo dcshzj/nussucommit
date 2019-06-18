@@ -23,37 +23,52 @@ layout: default
         <div class="row">
             <div class="col is-8 is-offset-2">
                 {%- for location in locations -%}
-                    <div class="row is-multiline margin--bottom">
-                            <div class="col is-6 padding--bottom--none">
-                                <p></p>
-                                <h5 class="has-text-secondary"><b>{{location.name}}</b></h5>
-                            </div>
-                            <div class="col is-6 padding--bottom--none">
-                                {%- if location.hours -%}
-                                <h5 class="has-text-secondary"><b>Operating Hours</b></h5>
-                                {%- endif -%}
-                            </div>
-                            <div class="col is-6">
-                                <div>
-                                    <p class="content margin--top--none">{{location.address}}</p>
-                                </div>
-                            </div>
-                            <div class="col is-6">
-                                {%- if location.hours -%}
-                                {%- assign hours = location.hours -%}
-                                <div>
-                                    {%- for operation in hours %}
-                                    <p class="margin--top--none">
-                                        <b>{{operation.days}}</b>:&nbsp;{{operation.time}}
-                                    </p>
-                                    {%- endfor -%}
-                                    <p class="margin--top--none">
-                                        {{location.description}}
-                                    </p>
-                                </div>
-                                {%- endif -%}
-                            </div>
+                <div class="row is-multiline margin--bottom">
+                    <div class="col is-6 padding--bottom--none">
+                        <p></p>
+                        <h5 class="has-text-secondary"><b>{{location.name}}</b></h5>
                     </div>
+                    <div class="col is-6 padding--bottom--none">
+                        {%- if location.hours -%}
+                        <h5 class="has-text-secondary"><b>Operating Hours</b></h5>
+                        {%- endif -%}
+                    </div>
+                    <div class="col is-6">
+                        <div>
+                            <p class="content margin--top--none">{{location.address}}</p>
+                            {%- if location.google-maps -%}
+                            <a href="{{location.google-maps}}" target="_blank" class="bp-sec-button has-text-secondary">
+                                <div>
+                                    <span>FIND DIRECTIONS</span>
+                                    <i class="sgds-icon sgds-icon-arrow-right" aria-hidden="true"></i>
+                                </div>
+                            </a>
+                            {%- endif -%}
+                        </div>
+                    </div>
+                    <div class="col is-6">
+                        {%- if location.hours -%}
+                        {%- assign hours = location.hours -%}
+                        <div>
+                            {%- for operation in hours %}
+                            <p class="margin--top--none">
+                                <b>{{operation.days}}</b>:&nbsp;{{operation.time}}
+                            </p>
+                            {%- endfor -%}
+                            <p class="margin--top--none">
+                                {{location.description}}
+                            </p>
+                            {%- if location.smallnote -%}
+                            <br>
+                            <p>
+                                <small>{{location.smallnote}}</small>
+                            </p>
+                            {%- endif -%}
+                        </div>
+                        {%- endif -%}
+                    </div>
+                </div>
+                <!--<div></div>-->
                 {%- endfor -%}
 
                 <div class="row is-multiline margin--bottom--xl">

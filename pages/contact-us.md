@@ -3,6 +3,7 @@ layout: contact-us
 permalink: /contact-us/
 breadcrumb: Contact Us
 title: Contact Us
+description: Get in touch with NUSSU commIT!
+comment: The contact details are taken from _config.yml file under "contact".
 ---
 
-{%- comment -%} Refer to _data/contact-us.yml to edit the list of board members {%- endcomment -%}

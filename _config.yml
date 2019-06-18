@@ -54,9 +54,11 @@ contact:
 
 # Centre operating hours
 locations:
+
 # Use the following for normal semester time:
 # - name: YIH Computer Centre
 #   address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
+#   google-maps: https://goo.gl/maps/iwKGZ6vwjXrRTNGs8
 #   hours:
 #   - days: "Monday - Friday"
 #     time: "08:30 - 21:00"
@@ -67,6 +69,7 @@ locations:
 #   description: "Closed on public holidays"
 # - name: AS8 Computer Centre
 #   address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
+#   google-maps: https://maps.google.com/?cid=13664296870626520892
 #   hours:
 #   - days: "Monday - Friday"
 #     time: "08:00 - 21:00"
@@ -77,24 +80,29 @@ locations:
 # Use the following for holidays:
 - name: YIH Computer Centre
   address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
+  google-maps: https://goo.gl/maps/iwKGZ6vwjXrRTNGs8
   hours:
   - days: "Monday - Friday"
     time: "08:30 - 19:00"
   - days: "Saturday"
     time: "08:30 - 15:00"
-  description: "Closed on Sundays and public holidays<br>Note: Our operating hours are shorter due to the university vacation"
+  description: "Closed on Sundays and public holidays"
+  smallnote: "Note: Our operating hours are shorter due to the university vacation"
 - name: AS8 Computer Centre
   address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
+  google-maps: https://maps.google.com/?cid=13664296870626520892
   hours:
   - days: "Monday - Friday"
     time: "08:00 - 19:00"
   - days: "Saturday"
     time: "08:00 - 17:00"
-  description: "Closed on Sundays and public holidays<br>Note: Our operating hours are shorter due to the university vacation"
+  description: "Closed on Sundays and public holidays"
+  smallnote: "Note: Our operating hours are shorter due to the university vacation"
 
 # Use the following for exam period:
 # - name: YIH Computer Centre
 #   address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
+#   google-maps: https://goo.gl/maps/iwKGZ6vwjXrRTNGs8
 #   hours:
 #   - days: "Monday - Friday"
 #     time: "08:30 - 21:00"
@@ -102,9 +110,11 @@ locations:
 #     time: "08:30 - 17:00"
 #   - days: "Sunday"
 #     time: "09:30 - 15:00"
-#   description: "Closed on public holidays<br>Note: Our operating hours are extended for the exam period"
+#   description: "Closed on public holidays"
+#   smallnote: "Note: Our operating hours are extended for the exam period"
 # - name: AS8 Computer Centre
 #   address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
+#   google-maps: https://maps.google.com/?cid=13664296870626520892
 #   hours:
 #   - days: "Monday - Friday"
 #     time: "08:00 - 21:00"
@@ -112,7 +122,8 @@ locations:
 #     time: "08:00 - 19:00"
 #   - days: "Sunday"
 #     time: "08:00 - 17:00"
-#   description: "Closed on public holidays<br>Note: Our operating hours are extended for the exam period"
+#   description: "Closed on public holidays"
+#   smallnote: "Note: Our operating hours are extended for the exam period"
 
 # END LOCATIONS
 
