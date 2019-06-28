@@ -4,6 +4,8 @@ title: Events
 header: Our Major Events
 permalink: /events/
 breadcrumb: Events
+redirect_from:
+ - /projects/
 ---
 
 In NUSSU commIT, we strongly encourage our members to be actively involved in external projects and take on leadership roles. Each year, NUSSU commIT organizes three major projects, namely Cyberia Camp, CharITeach and Creation.

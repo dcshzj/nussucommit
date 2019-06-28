@@ -4,6 +4,8 @@ title: Our Structure
 header: Our Structure
 permalink: /about-us/our-structure/
 breadcrumb: Our Structure
+redirect_from:
+ - /cell-duties/
 ---
 
 You do not need to be an IT expert to be part of our family. There are five cells in commIT with people with different talents in it.

@@ -4,6 +4,8 @@ title: Our Family
 header: Our Family
 permalink: /about-us/our-family/
 breadcrumb: Our Family
+redirect_from:
+ - /our-family/
 ---
 
 We are a group of fun-loving people, committed to serving and empowering the NUS community. We are driven by the same vision and the same belief.

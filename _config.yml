@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are part of the National University of Singapore Students' Union (NUSSU)
   that focuses on providing quality IT services for the NUS community.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.nussucommit.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.nussucommit.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -29,6 +29,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-assets
+  - jekyll-redirect-from
   # - jekyll-paginate
   - jekyll-sitemap
   # - jekyll-paginate-v2

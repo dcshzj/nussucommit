@@ -4,6 +4,8 @@ title: Computer Centres
 header: Our Computer Centres
 permalink: /computer-centres/
 breadcrumb: Services
+redirect_from:
+ - /services/
 ---
 
 We operate two separate computer clusters in NUS.
