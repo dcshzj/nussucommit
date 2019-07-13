@@ -30,14 +30,16 @@ The aim of this project is to provide a platform for NUS students to apply their
 
 [Click here]({{site.baseurl}}/events/creation/) for more information on this year’s Creation.
 
-### CharITeach
+### charITeach
 
 [<img class="has-shadow" src="{{- site.baseurl -}}/images/chariteach.jpg" alt="charITeach" style="width:70%">](/events/chariteach/)
 
-We at NUSSU commIT hold the belief that knowledge is meant to be shared. From that belief, we created another major event, named CharITeach. CharITeach is a new initiative which kick-started in April 2013. It is a combination of IT training and community service, providing the participants an opportunity to learn and teach.
+We at NUSSU commIT hold the belief that knowledge is meant to be shared. From that belief, we created another major event, named charITeach. charITeach is a new initiative which kick-started in April 2013. It is a combination of IT training and community service, providing the participants an opportunity to learn and teach.
 
-We believe that NUS students should be empowered with the necessary skills to spread their knowledge to those who are less fortunate than them. Hence, on Day 1, participants will receive up to 6 hours of professional training in IT software (Adobe Photoshop). In addition to empowering them with the skills, we provide them with a channel to spread their knowledge to charitable organizations all over Singapore. Therefore, on Day 2 in the following week, participants will be teaching the software to our beneficiaries for up to 2 hours followed by fun-bonding activities and a designing competition among the participants from beneficiaries.
+We believe that NUS students should be empowered with the necessary skills to spread their knowledge to those who are less fortunate than them. Hence, on Day 1, participants will receive up to 6 hours of professional training in IT software. In addition to empowering them with the skills, we provide them with a channel to spread their knowledge to charitable organizations all over Singapore. Therefore, on Day 2 in the following week, participants will be teaching the software to our beneficiaries for up to 2 hours followed by fun-bonding activities and a designing competition among the participants from beneficiaries.
 
-We hope that through this event, we can become the impetus, the catalyst to a knowledge-sharing community in NUS. CharITeach is a meaningful project bound to provide both the participants and beneficiaries a fulfilling experience.
+The software we teach is Scratch, which is a programming language that is extremely beginner friendly. Previously, we used to teach Adobe Photoshop but we transitioned to teaching Scratch as it is more popular with children.
 
-[Click here]({{site.baseurl}}/events/chariteach/) for more information on this year’s CharITeach.
+We hope that through this event, we can become the impetus, the catalyst to a knowledge-sharing community in NUS. charITeach is a meaningful project bound to provide both the participants and beneficiaries a fulfilling experience.
+
+[Click here]({{site.baseurl}}/events/chariteach/) for more information on this year’s charITeach.
