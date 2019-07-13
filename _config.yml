@@ -53,6 +53,10 @@ contact:
 - title: Marketing & Sponsorship Enquiries
   email: marketing@nussucommit.com
 
+# MailChimp mailing list POST URL
+# This is the URL for the form action attribute
+mailchimp: "https://nussucommit.us3.list-manage.com/subscribe/post?u=26c98d6644203325fd0986041&amp;id=0a6a10fca8"
+
 # Centre operating hours
 locations:
 
