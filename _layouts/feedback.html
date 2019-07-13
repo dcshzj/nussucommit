@@ -16,28 +16,30 @@ layout: default
 </section>
 
 <section class="bp-section">
-	<div class="bp-container content padding--top--lg padding--bottom--xl">
+    <div class="bp-container content padding--top--lg padding--bottom--xl">
         <div class="row">
             <div class="col is-8 is-offset-2">
-            	{{- content -}}
+                {{- content -}}
 
-            	<form id="feedbackForm" method="post" action="https://script.google.com/macros/s/AKfycbyQ9v-iy0lj0hx5OTZk-bZbs_jaPm-vQThKyhh0cGrx_oL5PFM/exec">
-					<label class="label is-medium" for="name">Full Name</label>
-					<input class="input is-fullwidth is-large" type="text" name="name" id="name" value="" placeholder="John Doe" required />
-					<br />
-					<label class="label is-medium" for="email">Email address</label>
-					<input class="input is-fullwidth is-large" type="email" name="email" id="email" value="" placeholder="john@example.com" required />
-					<br />
-					<label class="label is-medium" for="subject">Subject</label>
-					<input class="input is-fullwidth is-large" type="text" name="subject" id="subject" value="" placeholder="Enter your subject" required />
-					<br />
-					<label class="label is-medium" for="subject">Message</label>
-					<textarea class="textarea is-fullwidth is-large" name="message" id="message" placeholder="Enter your message" rows="5" required></textarea>
-					<br />
-					<input type="submit" class="bp-button is-secondary is-medium accordion-button" id="submit" value="Submit" />
-				</form>
+                <div class="padding--top">
+                    <form id="feedbackForm" method="post" action="https://script.google.com/macros/s/AKfycbyQ9v-iy0lj0hx5OTZk-bZbs_jaPm-vQThKyhh0cGrx_oL5PFM/exec">
+                        <label class="label is-medium" for="name">Full Name</label>
+                        <input class="input is-fullwidth is-large" type="text" name="name" id="name" value="" placeholder="John Doe" required />
+                        <br />
+                        <label class="label is-medium" for="email">Email address</label>
+                        <input class="input is-fullwidth is-large" type="email" name="email" id="email" value="" placeholder="john@example.com" required />
+                        <br />
+                        <label class="label is-medium" for="subject">Subject</label>
+                        <input class="input is-fullwidth is-large" type="text" name="subject" id="subject" value="" placeholder="Enter your subject" required />
+                        <br />
+                        <label class="label is-medium" for="subject">Message</label>
+                        <textarea class="textarea is-fullwidth is-large" name="message" id="message" placeholder="Enter your message" rows="5" required></textarea>
+                        <br />
+                        <input type="submit" class="bp-button is-secondary is-medium accordion-button" id="submit" value="Submit" />
+                    </form>
 
-                <p id="result"></p>
+                    <p id="result"></p>
+                </div>
             </div>
         </div>
     </div>
