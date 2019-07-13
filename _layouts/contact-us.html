@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+{%- if site.operating-type == "default" or site.operating-type == "exams" or site.operating-type == "holidays" -%}
+{%- assign operating-hours = site.operating-hours[site.operating-type] -%}
+{%- else -%}
+{%- assign operating-hours = site.operating-hours["default"] -%}
+{%- endif -%}
 {%- assign locations = site.locations -%}
 
 <section class="bp-section">
@@ -29,7 +34,7 @@ layout: default
                         <h5 class="has-text-primary"><b>{{location.name}}</b></h5>
                     </div>
                     <div class="col is-6 padding--bottom--none">
-                        {%- if location.hours -%}
+                        {%- if operating-hours[location.shortname] -%}
                         <h5 class="has-text-primary"><b>Operating Hours</b></h5>
                         {%- endif -%}
                     </div>
@@ -47,21 +52,23 @@ layout: default
                         </div>
                     </div>
                     <div class="col is-6">
-                        {%- if location.hours -%}
-                        {%- assign hours = location.hours -%}
+                        {%- if operating-hours[location.shortname] -%}
+                        {%- assign hours = operating-hours[location.shortname].hours -%}
                         <div>
                             {%- for operation in hours %}
                             <p class="margin--top--none">
                                 <b>{{operation.days}}</b>:&nbsp;{{operation.time}}
                             </p>
                             {%- endfor -%}
+                            {%- if operating-hours[location.shortname].description -%}
                             <p class="margin--top--none">
-                                {{location.description}}
+                                {{operating-hours[location.shortname].description}}
                             </p>
-                            {%- if location.smallnote -%}
+                            {%- endif -%}
+                            {%- if operating-hours[location.shortname].smallnote -%}
                             <br>
                             <p>
-                                <small>{{location.smallnote}}</small>
+                                <small>{{operating-hours[location.shortname].smallnote}}</small>
                             </p>
                             {%- endif -%}
                         </div>

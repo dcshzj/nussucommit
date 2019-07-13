@@ -38,6 +38,15 @@ safe: false
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, test_suite, node_modules]
 
 # Site configuration
+# Computer centres operating hours
+# Available options are:
+# - default: Normal operating hours
+# - exams: Exam period operating hours
+# - holidays: Holiday period operating hours
+# Refer to below section to change the actual hours
+operating-type: holidays
+
+###### DO NOT TOUCH BELOW THIS LINE UNLESS YOU KNOW WHAT YOU ARE DOING!!! ######
 # Sponsor details
 sponsor-logo: /images/acadia.png
 sponsor-title: Acadia Training Pte Ltd
@@ -57,80 +66,79 @@ contact:
 # This is the URL for the form action attribute
 mailchimp: "https://nussucommit.us3.list-manage.com/subscribe/post?u=26c98d6644203325fd0986041&amp;id=0a6a10fca8"
 
-# Centre operating hours
+# Computer centre locations
 locations:
-
-# Use the following for normal semester time:
-# - name: YIH Computer Centre
-#   address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
-#   google-maps: https://goo.gl/maps/iwKGZ6vwjXrRTNGs8
-#   hours:
-#   - days: "Monday - Friday"
-#     time: "08:30 - 21:00"
-#   - days: "Saturday"
-#     time: "08:30 - 17:00"
-#   - days: "Sunday"
-#     time: "09:30 - 15:00"
-#   description: "Closed on public holidays"
-# - name: AS8 Computer Centre
-#   address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
-#   google-maps: https://maps.google.com/?cid=13664296870626520892
-#   hours:
-#   - days: "Monday - Friday"
-#     time: "08:00 - 21:00"
-#   - days: "Saturday"
-#     time: "08:00 - 19:00"
-#   description: "Closed on Sundays and public holidays"
-
-# Use the following for holidays:
 - name: YIH Computer Centre
+  shortname: YIH
   address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
-  google-maps: https://goo.gl/maps/iwKGZ6vwjXrRTNGs8
-  hours:
-  - days: "Monday - Friday"
-    time: "08:30 - 19:00"
-  - days: "Saturday"
-    time: "08:30 - 15:00"
-  description: "Closed on Sundays and public holidays"
-  smallnote: "Note: Our operating hours are shorter due to the university vacation"
+  google-maps: https://goo.gl/maps/iwKGZ6vwjXrRTNGs8.
 - name: AS8 Computer Centre
+  shortname: AS8
   address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
   google-maps: https://maps.google.com/?cid=13664296870626520892
-  hours:
-  - days: "Monday - Friday"
-    time: "08:00 - 19:00"
-  - days: "Saturday"
-    time: "08:00 - 17:00"
-  description: "Closed on Sundays and public holidays"
-  smallnote: "Note: Our operating hours are shorter due to the university vacation"
 
-# Use the following for exam period:
-# - name: YIH Computer Centre
-#   address: "Yusof Ishak House, #03-10<br>National University of Singapore<br>31 Lower Kent Ridge Road<br>Singapore 119078"
-#   google-maps: https://goo.gl/maps/iwKGZ6vwjXrRTNGs8
-#   hours:
-#   - days: "Monday - Friday"
-#     time: "08:30 - 21:00"
-#   - days: "Saturday"
-#     time: "08:30 - 17:00"
-#   - days: "Sunday"
-#     time: "09:30 - 15:00"
-#   description: "Closed on public holidays"
-#   smallnote: "Note: Our operating hours are extended for the exam period"
-# - name: AS8 Computer Centre
-#   address: "Blk AS8, #02-01<br>National University of Singapore<br>10 Kent Ridge Crescent<br>Singapore 119260"
-#   google-maps: https://maps.google.com/?cid=13664296870626520892
-#   hours:
-#   - days: "Monday - Friday"
-#     time: "08:00 - 21:00"
-#   - days: "Saturday"
-#     time: "08:00 - 19:00"
-#   - days: "Sunday"
-#     time: "08:00 - 17:00"
-#   description: "Closed on public holidays"
-#   smallnote: "Note: Our operating hours are extended for the exam period"
+# Computer centre operating hours
+# WARNING: You should be changing the "operating-type" variable above!
+# The main key should match the available "operating-type", and the sub-keys
+# should match the "shortname" variable in "locations."
+operating-hours:
+  default:
+    YIH:
+      hours:
+      - days: "Monday - Friday"
+        time: "08:30 - 21:00"
+      - days: "Saturday"
+        time: "08:30 - 17:00"
+      - days: "Sunday"
+        time: "09:30 - 15:00"
+      description: "Closed on public holidays"
+    AS8:
+      hours:
+      - days: "Monday - Friday"
+        time: "08:00 - 21:00"
+      - days: "Saturday"
+        time: "08:00 - 19:00"
+      description: "Closed on Sundays and public holidays"
 
-# END LOCATIONS
+  exams:
+    YIH:
+      hours:
+      - days: "Monday - Friday"
+        time: "08:30 - 21:00"
+      - days: "Saturday"
+        time: "08:30 - 17:00"
+      - days: "Sunday"
+        time: "09:30 - 15:00"
+      description: "Closed on public holidays"
+      smallnote: "Note: Our operating hours are extended for the exam period"
+    AS8:
+      hours:
+      - days: "Monday - Friday"
+        time: "08:00 - 21:00"
+      - days: "Saturday"
+        time: "08:00 - 19:00"
+      - days: "Sunday"
+        time: "08:00 - 17:00"
+      description: "Closed on public holidays"
+      smallnote: "Note: Our operating hours are extended for the exam period"
+
+  holidays:
+    YIH:
+      hours:
+      - days: "Monday - Friday"
+        time: "08:30 - 19:00"
+      - days: "Saturday"
+        time: "08:30 - 15:00"
+      description: "Closed on Sundays and public holidays"
+      smallnote: "Note: Our operating hours are shorter due to the university vacation"
+    AS8:
+      hours:
+      - days: "Monday - Friday"
+        time: "08:00 - 19:00"
+      - days: "Saturday"
+        time: "08:00 - 17:00"
+      description: "Closed on Sundays and public holidays"
+      smallnote: "Note: Our operating hours are shorter due to the university vacation"
 
 # Breadcrumbs
 breadcrumbs:
