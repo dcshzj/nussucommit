@@ -18,5 +18,3 @@ This year, we are collaborating with NUS offices to set up problem statements fo
 
 ## Contact us
 Please email [creation@nussucommit.com](mailto:creation@nussucommit.com).
-
-

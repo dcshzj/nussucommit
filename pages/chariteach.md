@@ -23,3 +23,7 @@ During Volunteer Training, the volunteers will be given free Scratch training co
 During Beneficiaries Invitation, students from various beneficiaries around Singapore will be invited to the NUS campus for a fun introductory course to programming using Scratch conducted by the NUS volunteers. The course will last about 4 hours, with 3 hours of training and 1 hour of competition, where students can develop a prototype of a software using Scratch.
 
 We hope that through this event, we can become the impetus, the catalyst to a knowledge-sharing community in NUS. charITeach is a meaningful project bound to provide both the participants and beneficiaries a fulfilling experience.
+
+## Contact us
+
+Please email [chariteach@nussucommit.com](mailto:chariteach@nussucommit.com).
