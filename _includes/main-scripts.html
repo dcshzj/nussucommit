@@ -35,6 +35,9 @@
 <script src="{{- "/assets/js/accordion.js" | relative_url -}}" crossorigin="anonymous"></script>
 {%- endif -%}
 
+{%- if page.layout == 'feedback' -%}
+<script src="{{- "/do-not-touch/feedback.js" | relative_url -}}" crossorigin="anonymous"></script>
+{%- endif -%}
 
 {%- if page.layout == 'search' -%}
 <script src="https://unpkg.com/lunr@2.3.6/lunr.js" integrity="sha384-WYZhYwlpZbtVuVpKReDUDRhoKr0MubxAfgcS0k8y5lprnl0i482oHTKTBeWTbcaz" crossorigin="anonymous"></script>
