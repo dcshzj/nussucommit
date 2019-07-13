@@ -7,6 +7,20 @@
 # <b>BOLD ME</b> is the syntax to bold things
 # <i>ITALICIZE ME</i> is the syntax to italicize things
 
+- title: About NUSSU commIT
+  questions:
+  - question: What is NUSSU commIT?
+    answer:
+    - line: NUSSU commIT is a CCA under the National University of Singapore Students' Union (NUSSU), providing IT and software training services for NUS students.
+  - question: What does NUSSU commIT do?
+    answer:
+    - line: NUSSU commIT provides free training workshops each semester, aiming to impart NUS students with the basic knowledge and skills to use certain widely-used software, such as Adobe Photoshop, Adobe Illustrator and Microsoft Excel. More information on our training workshops can be found on our <a href="/training-workshops/">Training Workshops</a> page.
+    - line: Additionally, we organise three major events each academic year, Cyberia Camp in semester 1, Creation and charITeach in semester 2. In summary, Cyberia is a camp that teaches participants Adobe Photoshop, Creation is a design competition and charITeach is a charitable event where participants can learn and teach a certain software to underprivileged students. More information on each respective event can be found on our <a href="/events/">Events</a> page.
+    - line: We are also in charge of handling two PC clusters in NUS at the Yusof Ishak House and also Block AS8. In these centres, We offer both printing and scanning services but do not provide photocopy services. More information on our computer centres, such as our operating hours and printing rates can be found on our <a href="/computer-centres/">Computer Centres</a> page.
+  - question: NUSSU commIT is so AWESOME! How do I apply to join your team?
+    answer:
+    - line: Please go to our booth at the Student Life Fair (SLF) held every first semester to find out how to apply. Unfortunately, we only open our application to new members in semester 1 of each academic year.
+    
 - title: Registration Procedure and Place
   questions:
   - question: How do I register?
@@ -65,17 +79,3 @@
   - question: I already know the basics. Can I come only for the later part?
     answer:
     - line: Yes, you can. However, we recommend just sitting in for the entire thing because there may be some continuing exercises for certain workshops.
-
-- title: About NUSSU commIT
-  questions:
-  - question: What is NUSSU commIT?
-    answer:
-    - line: NUSSU commIT is a CCA under the National University of Singapore Students' Union (NUSSU), providing IT and software training services for NUS students.
-  - question: What does NUSSU commIT do?
-    answer:
-    - line: NUSSU commIT provides free training workshops each semester, aiming to impart NUS students with the basic knowledge and skills to use certain widely-used software, such as Adobe Photoshop, Adobe Illustrator and Microsoft Excel. More information on our training workshops can be found on our <a href="/training-workshops/">Training Workshops</a> page.
-    - line: Additionally, we organise three major events each academic year, Cyberia Camp in semester 1, Creation and charITeach in semester 2. In summary, Cyberia is a camp that teaches participants Adobe Photoshop, Creation is a design competition and charITeach is a charitable event where participants can learn and teach a certain software to underprivileged students. More information on each respective event can be found on our <a href="/events/">Events</a> page.
-    - line: We are also in charge of handling two PC clusters in NUS at the Yusof Ishak House and also Block AS8. In these centres, We offer both printing and scanning services but do not provide photocopy services. More information on our computer centres, such as our operating hours and printing rates can be found on our <a href="/computer-centres/">Computer Centres</a> page.
-  - question: NUSSU commIT is so AWESOME! How do I apply to join your team?
-    answer:
-    - line: Please go to our booth at the Student Life Fair (SLF) held every first semester to find out how to apply. Unfortunately, we only open our application to new members in semester 1 of each academic year.
