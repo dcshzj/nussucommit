@@ -12,7 +12,7 @@ In NUSSU commIT, we strongly encourage our members to be actively involved in ex
 
 ### Cyberia Camp
 
-[![Cyberia Camp]({{site.baseurl}}/images/cyberia.png)]({{site.baseurl}}/projects/cyberia/)
+[<img class="has-shadow" src="{{- site.baseurl -}}/images/cyberia.png" alt="Cyberia Camp" style="width:70%">](/events/cyberia/)
 
 This is a 3-day-2-night intensive learning camp where we impart IT skills in a fun and interactive camp setting. Our Adobe software trainings are conducted by IT training professionals during the term break in December. Upon completing the camp, every participant will receive an official training certificate.
 
@@ -20,9 +20,19 @@ Cyberia Camp aims to raise the infocomm and technological knowledge of the gener
 
 Registration for Cyberia Camp usually opens in Semester 1 around October. Stay tuned to our announcements around campus, or [click here]({{site.baseurl}}/events/cyberia/) for more information.
 
+### Creation
+
+[<img class="has-shadow" src="{{- site.baseurl -}}/images/creation.jpg" alt="Creation" style="width:70%">](/events/creation/)
+
+Creation is a new initiative organized by Committee of Information and Technology. This is a competition opens to all NUS students, who create art works by using any IT software such as photoshop and illustrator. The winners are selected and given amazing price from our sponsors.
+
+The aim of this project is to provide a platform for NUS students to apply their design skills (possibly acquired by other CommIT projects such as the training workshops and Cyberia Camp) and showcase it in a creative manner and style – thus the name Creation which stands for Creative Competition.
+
+[Click here]({{site.baseurl}}/events/creation/) for more information on this year’s Creation.
+
 ### CharITeach
 
-[![CharITeach]({{site.baseurl}}/images/chariteach.jpg)]({{site.baseurl}}/projects/chariteach/)
+[<img class="has-shadow" src="{{- site.baseurl -}}/images/chariteach.jpg" alt="charITeach" style="width:70%">](/events/chariteach/)
 
 We at NUSSU commIT hold the belief that knowledge is meant to be shared. From that belief, we created another major event, named CharITeach. CharITeach is a new initiative which kick-started in April 2013. It is a combination of IT training and community service, providing the participants an opportunity to learn and teach.
 
@@ -31,13 +41,3 @@ We believe that NUS students should be empowered with the necessary skills to sp
 We hope that through this event, we can become the impetus, the catalyst to a knowledge-sharing community in NUS. CharITeach is a meaningful project bound to provide both the participants and beneficiaries a fulfilling experience.
 
 [Click here]({{site.baseurl}}/events/chariteach/) for more information on this year’s CharITeach.
-
-### Creation
-
-[![Creation]({{site.baseurl}}/images/creation.jpg)]({{site.baseurl}}/projects/creation/)
-
-CommIT Creation is a new initiative organized by Committee of Information and Technology. This is a competition opens to all NUS students, who create art works by using any IT software such as photoshop and illustrator. The winners are selected and given amazing price from our sponsors.
-
-The aim of this project is to provide a platform for NUS students to apply their design skills (possibly acquired by other CommIT projects such as the training workshops and Cyberia Camp) and showcase it in a creative manner and style – thus the name Creation which stands for Creative Competition.
-
-[Click here]({{site.baseurl}}/events/creation/) for more information on this year’s Creation.
