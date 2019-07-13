@@ -11,14 +11,14 @@ favicon: /favicon.ico
 logo: /images/logo.png
 
 # Google analytics
-google-analytics: UA-test
+google-analytics: UA-143760368-1
 
 # Hero Banner
 hero-title: Serving the NUS community
 hero-subtitle: From providing IT training workshops to operating 2 computer centres. NUSSU commIT serves the NUS community by providing quality IT services.
 hero-banner: /images/banner.jpg
 
-#Call to Action Button
+# Call to Action Button
 button:
   - text: Learn More
     url: /about-us/
