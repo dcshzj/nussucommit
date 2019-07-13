@@ -16,7 +16,7 @@ google-analytics: UA-143760368-1
 # Hero Banner
 hero-title: Serving the NUS community
 hero-subtitle: From providing IT training workshops to operating 2 computer centres. NUSSU commIT serves the NUS community by providing quality IT services.
-hero-banner: /images/banner.jpg
+hero-banner: /images/homepage/banner.jpg
 
 # Call to Action Button
 button:
@@ -25,49 +25,43 @@ button:
 
 # Key Highlights
 key-highlights:
-  - title: Templates and Forms
-    description: Downladable templates and forms
-    url: /resource_room/
+  - title: Computer Centres
+    description: Study, print or scan
+    url: /computer-centres/
     external: false
-  - title: Google
-    description: LMGTFY
-    url: https://google.com
-    external: true
-  - title: Yahoo
-    description: Another search engine
-    url: https://yahoo.com/
-    external: true
-  - title: Wikipedia
-    description: More information
-    url: https://wikipedia.org
-    external: true
+  - title: Training Workshops
+    description: Stay relevant in the digital world
+    url: /training-workshops/
+    external: false
+  - title: Major Events
+    description: Make a difference
+    url: /events/
+    external: false
+  - title: Contact Us
+    description: Get in touch
+    url: /contact/
+    external: false
 
 # Info Sections
-# info-sections:
-#   - section-title: Users
-#     section-subtitle: Hassle-free registration
-#     section-description: We streamline your user registration process by removing your need for password and user management.
-#     section-more-button: API References
-#     section-more-button-url: /citizens/
-#     section-image-path: /images/digital-transformation/govtech-hive.jpg
-#   - section-title: Developers
-#     section-subtitle: Develop seamlessly
-#     section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
-#     section-more-button: Stuff
-#     section-more-button-url: /citizens/
-#     section-image-path: /images/digital-transformation/govtech-hive.jpg
-#   - section-title: Users
-#     section-subtitle: Hassle-free registration
-#     section-description: We streamline your user registration process by removing your need for password and user management.
-#     section-more-button: Stuff
-#     section-more-button-url: /citizens/
-#     section-image-path: /images/digital-transformation/govtech-hive.jpg
-#   - section-title: Developers
-#     section-subtitle: Develop seamlessly
-#     section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
-#     section-more-button: API References
-#     section-more-button-url: /citizens/
-#     section-image-path: /images/digital-transformation/govtech-hive.jpg
+info-sections:
+- section-title: Training Workshops
+  section-subtitle: Explore more through our workshops
+  section-description: Want to learn more about graphic design or navigating Excel like a pro? Fret not! Our own Training Cell members will conduct workshops for you to learn such skills and stay relevant in this digital world.
+  section-more-button: Workshops offered
+  section-more-button-url: /training-workshops/
+  section-image-path: /images/homepage/workshop.jpg
+- section-title: Elevate the creativity
+  section-subtitle: Major Events
+  section-description: Every year, we organise 3 major events that are designed to ignite and raise the creativity of NUS students to the next level. They are Cyberia Camp, Creation and charITeach and are designed to help you learn and share the fun at the same time!
+  section-more-button: Find an event
+  section-more-button-url: /events/
+  section-image-path: /images/homepage/events.jpg
+- section-title: Study, print or scan
+  section-subtitle: Our Computer Centres
+  section-description: We manage 2 computer centres at YIH and AS8 to serve your daily IT needs! We provide printing and scanning facilities to help in your studies in NUS. Our friendly supervisors are also ready to assist you if you face any problems.
+  section-more-button: Locate our centres
+  section-more-button-url: /computer-centres/
+  section-image-path: /images/homepage/centre.jpg
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml

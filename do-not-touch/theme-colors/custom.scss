@@ -342,6 +342,12 @@ table.table-h {
   }
 }
 
+// Let images have a slight shadow
+img.has-shadow {
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.25),0 6px 20px 0 rgba(0, 0, 0, 0.25);
+    // box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1);
+}
+
 // CSS to be refactored into the Blueprint template
 
 .content img.digital-transformation-icon {

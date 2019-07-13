@@ -18,7 +18,7 @@ This is a 3-day-2-night intensive learning camp where we impart IT skills in a f
 
 Cyberia Camp aims to raise the infocomm and technological knowledge of the general NUS student population. At the end of the camp, participants are expected to have basic proficiency in applications of the software. On top of being a training camp, students just wanna have fun, don’t we? Cyberia Camp synthesises the fun aspects of a camp, the joy of making new friends and a fruitful learning environment to create a truly memorable camp.
 
-Registration for Cyberia Camp usually opens in Semester 1 around October. Stay tuned to our announcements around campus, or [click here]({{site.baseurl}}/projects/cyberia/) for more information.
+Registration for Cyberia Camp usually opens in Semester 1 around October. Stay tuned to our announcements around campus, or [click here]({{site.baseurl}}/events/cyberia/) for more information.
 
 ### CharITeach
 
@@ -30,7 +30,7 @@ We believe that NUS students should be empowered with the necessary skills to sp
 
 We hope that through this event, we can become the impetus, the catalyst to a knowledge-sharing community in NUS. CharITeach is a meaningful project bound to provide both the participants and beneficiaries a fulfilling experience.
 
-[Click here]({{site.baseurl}}/projects/chariteach/) for more information on this year’s CharITeach.
+[Click here]({{site.baseurl}}/events/chariteach/) for more information on this year’s CharITeach.
 
 ### Creation
 
@@ -40,4 +40,4 @@ CommIT Creation is a new initiative organized by Committee of Information and Te
 
 The aim of this project is to provide a platform for NUS students to apply their design skills (possibly acquired by other CommIT projects such as the training workshops and Cyberia Camp) and showcase it in a creative manner and style – thus the name Creation which stands for Creative Competition.
 
-[Click here]({{site.baseurl}}/projects/creation/) for more information on this year’s Creation.
+[Click here]({{site.baseurl}}/events/creation/) for more information on this year’s Creation.
