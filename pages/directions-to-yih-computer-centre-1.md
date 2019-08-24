@@ -1,12 +1,11 @@
 ---
 layout: simple-page
-title: Direction to YIH Computer Centre 1
-header: Direction to YIH Computer Centre 1
-permalink: /direction-to-yih-centre-1/
+title: Directions to YIH Computer Centre 1
+header: Directions to YIH Computer Centre 1
+permalink: /directions/
 breadcrumb: Contact Us
 ---
 
-## Directions to YIH Computer Centre 1
 ![YIH Bus Stop]({{site.baseurl}}/images/direction-to-yih-centre-1/yih-bus-stop.png)
 
 Alight at Yusof Ishak House bus stop.
