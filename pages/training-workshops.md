@@ -52,7 +52,7 @@ There will be one Microsoft Excel workshop in Semester 1 AY2019/20. The workshop
 
 * **Date**: Saturday, 14 September 2019
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: _To be confirmed_
+* **Venue**: Seminar Room 3 (COM1 02-12), School of Computing
 
 **Note: Please bring your own laptop with Microsoft Excel installed. We will be using the latest version of [Microsoft Office 365](https://www.office.com).**
 
