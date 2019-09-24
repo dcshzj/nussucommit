@@ -14,11 +14,7 @@ The workshops we will be conducting in AY2019/20 are:
 * [Adobe Photoshop](#adobe-photoshop)
 * [Adobe Illustrator](#adobe-illustrator)
 
-Additionally, we partner with external organisations to offer some training workshops taught by external trainers:
-
-* [Microsoft Excel VBA](#microsoft-excel-vba) by Acadia Training (paid)
-* Data Science by Code for Asia
-* Web Development by Code for Asia
+Additionally, we partner with external organisations to offer some [training workshops taught by external trainers](/external-workshops/), some of which are free!
 
 We announce our upcoming workshops via email blasts on NUSSU Events directly to your NUS email. You can also [subscribe to our mailing list](/contact/#mailing-list) to be updated about our upcoming workshops.
 
@@ -75,7 +71,7 @@ There will be one Adobe Photoshop workshop in Semester 1 AY2019/20. The workshop
 
 * **Date**: Saturday, 12 October 2019
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: _To be confirmed_
+* **Venue**: PC Cluster 5 & 6 (Blk E2 03-08/09), Faculty of Engineering
 
 ### Adobe Illustrator
 
@@ -92,26 +88,4 @@ There will be one Adobe Illustrator workshop in Semester 1 AY2019/20. The worksh
 
 * **Date**: Saturday, 26 October 2019
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: _To be confirmed_
-
-### Microsoft Excel VBA
-
-Macros allow users to record a set of actions in Microsoft Excel and repeating them dynamically on any cell or sheet. But have you ever wondered what does on behind recording a macro in Microsoft Excel?
-
-Upon opening up your macro, you'll find yourself exposed to the world of Visual Basics for Applications (VBA). VBA is the main programming language used in various Microsoft Office applications such as Word and Excel. It allows users to create and program custom scripts that can be executed through the click of a button or even during the opening of a spreadsheet. Actions that could have never been carried out through basic software functions.
-
-As such, many businesses make use of this powerful tool to create custom applications such as automating the generation of reports, creating custom forms and compiling copious amounts of data.
-
-A glimpse of the topics that will covered include:
-
-* Defining Variables
-* Creating Forms
-* Message Boxes/Alerts
-* Activecell usage
-* Conditional Statements
-
-The workshop will be held at:
-
-* **Date**: Tuesday, 25 February 2020
-* **Time**: 09:45 – 17:00
-* **Venue**: _To be confirmed_
+* **Venue**: PC Cluster 5 & 6 (Blk E2 03-08/09), Faculty of Engineering

@@ -24,6 +24,8 @@
     url: /computer-centres/
   - title: Training Workshops
     url: /training-workshops/
+  - title: External Training Workshops
+    url: /external-workshops/
 - title: Events
   url: /events/
   sub-links:
