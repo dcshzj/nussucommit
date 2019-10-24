@@ -8,7 +8,7 @@ redirect_from:
  - /projects/
 ---
 
-In NUSSU commIT, we strongly encourage our members to be actively involved in external projects and take on leadership roles. Each year, NUSSU commIT organizes three major projects, namely Cyberia Camp, CharITeach and Creation.
+In NUSSU commIT, we strongly encourage our members to be actively involved in external projects and take on leadership roles. Each year, NUSSU commIT organizes three major projects, namely Cyberia Camp, CharITeach and CREATION.
 
 ### Cyberia Camp
 
@@ -20,15 +20,15 @@ Cyberia Camp aims to raise the infocomm and technological knowledge of the gener
 
 Registration for Cyberia Camp usually opens in Semester 1 around October. Stay tuned to our announcements around campus, or [click here]({{site.baseurl}}/events/cyberia/) for more information.
 
-### Creation
+### CREATION
 
-[<img class="has-shadow" src="{{- site.baseurl -}}/images/creation.jpg" alt="Creation" style="width:70%">](/events/creation/)
+[<img class="has-shadow" src="{{- site.baseurl -}}/images/creation.jpg" alt="CREATION" style="width:70%">](/events/creation/)
 
-Creation is a new initiative organized by Committee of Information and Technology. This is a competition opens to all NUS students, who create art works by using any IT software such as photoshop and illustrator. The winners are selected and given amazing price from our sponsors.
+CREATION is a digital design competition organized by Committee of Information and Technology. This competition is open to all NUS students, who create artworks by using any IT softwares such as Photoshop and Illustrator. The winners will be given amazing prizes from our partners.
 
-The aim of this project is to provide a platform for NUS students to apply their design skills (possibly acquired by other CommIT projects such as the training workshops and Cyberia Camp) and showcase it in a creative manner and style – thus the name Creation which stands for Creative Competition.
+The aim of this project is to provide a platform for NUS students to apply their design skills (possibly acquired from other commIT projects such as the training workshops and Cyberia Camp) and showcase it in a creative manner and style – thus the name CREATION which stands for Creative Competition.
 
-[Click here]({{site.baseurl}}/events/creation/) for more information on this year’s Creation.
+[Click here]({{site.baseurl}}/events/creation/) for more information on next year’s CREATION.
 
 ### charITeach
 
