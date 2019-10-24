@@ -2,122 +2,124 @@
 # Note: image should be in the /images/mc/ folder
 # Chairperson
 - members:
-  - name: Ng Bo Yan
+  - name: Gan Xin Ying
     title: Chairperson
-    faculty: Faculty of Engineering
+    faculty: School of Business
     year: 4
-    image: boyan.jpg
+    image: xinying.jpg
 
 # Vice Chairperson
 - members:
-  - name: Gabriela Leilani Wijaya
+  - name: Hsu Zhong Jun
     title: Vice Chairperson
-    faculty: Faculty of Engineering
+    faculty: School of Computing
     year: 2
-    image: gabriela.jpg
-  - name: Viriyadhika Putra
+    image: zhongjun.jpg
+  - name: Calvin Ng Khai Boon
     title: Vice Chairperson
     faculty: Faculty of Engineering
     year: 3
-    image: viriya.jpg
+    image: calvin.jpg
 
 # Secretary
 - members:
-  - name: Ronald Santoso
-    title: Secretary
-    faculty: School of Computing
-    year: 3
-    image: ronald.jpg
-  - name: Jiang Yixing
+  - name: Isabelle Ho Gin
     title: Secretary
     faculty: Faculty of Engineering
+    year: 3
+    image: isabelle.jpg
+  - name: Kheng Yau Dong
+    title: Secretary
+    faculty: School of Computing
     year: 2
-    image: yixing.jpg
+    image: yaudong.jpg
 
 # Treasurer
 - members:
-  - name: Gan Xin Ying
+  - name: Hilda Anggraeni
     title: Treasurer
-    faculty: School of Business
+    faculty: School of Computing
     year: 3
-    image: xinying.jpg
-  - name: Anthony Haryono
+    image: hilda.jpg
+  - name: Lim Wen Hong
     title: Treasurer
     faculty: School of Business
     year: 2
-    image: anthony.jpg
+    image: wenhong.jpg
 
 # Logistics & Operations
 - members:
-  - name: Lee Wai Seong
+  - name: Wilson Wongso Soengkono
     title: Logistics & Operations Manager
     faculty: Faculty of Engineering
     year: 3
-    image: waiseong.jpg
-  - name: Amrut Prabhu
+    image: wilson.jpg
+  - name: Rachel Pek Xin Yi
     title: Logistics & Operations Manager
-    faculty: School of Computing
-    year: 3
-    image: amrut.jpg
+    faculty: Faculty of Arts and Social Sciences
+    year: 2
+    image: rachel.jpg
 
 # Marketing
 - members:
-  - name: Choong Wai Kean
+  - name: Agnes Natasya
+    title: Marketing Manager
+    faculty: Faculty of Science
+    year: 2
+    image: agnes.jpg
+  - name: Alexander Runako Chandra
     title: Marketing Manager
     faculty: Faculty of Engineering
-    year: 3
-    image: waikean.jpg
-  - name: Mirabel Clarissa Reynaldo
-    title: Marketing Manager
-    faculty: School of Business
-    year: 3
+    year: 2
+    image: alex.jpg
 
 # Publicity
 - members:
-  - name: Yan Yu, Aleene Chow
+  - name: Lim Ting Yee
     title: Publicity Manager
     faculty: Faculty of Arts and Social Sciences
-    year: 2
-    image: aleene.jpg
-  - name: Indrajaya Tjendra
+    year: 3
+    image: tingyee.jpg
+  - name: Wang Yuchen
     title: Publicity Manager
-    faculty: School of Business
-    year: 4
-    image: injay.jpg
+    faculty: School of Computing
+    year: 2
 
 # Technical
 - members:
-  - name: Julius Putra Tanu Setiaji
+  - name: Ryo Chandra Putra A.
     title: Technical Manager
     faculty: School of Computing
     year: 2
-  - name: Sreyans Sipani
+    image: ryo.jpg
+  - name: Christian James Welly
     title: Technical Manager
     faculty: School of Computing
     year: 2
-    image: sreyans.jpg
+    image: welly.jpg
 
 # Training
 - members:
-  - name: Nadhira Salsabila
+  - name: Matheus Aaron
     title: Training Manager
     faculty: School of Computing
-    year: 3
-  - name: You Liang, Henry Nah
-    title: Training Manager
-    faculty: School of Business
     year: 2
-    image: henry.jpg
+    image: matheus.jpg
+  - name: Christian Steven Jonathan
+    title: Training Manager
+    faculty: Faculty of Engineering
+    year: 2
+    image: steven.jpg
 
 # Welfare
 - members:
-  - name: Listya Nuansa Putri
-    title: Welfare Manager
-    faculty: Faculty of Science
-    year: 3
-    image: listya.jpg
-  - name: Tiana Singgih
+  - name: Hans Sebastian Mulyawan
     title: Welfare Manager
     faculty: Faculty of Engineering
-    year: 3
-    image: tiana.jpg
+    year: 2
+    image: hans.jpg
+  - name: Felita Eleonora
+    title: Welfare Manager
+    faculty: YST Conservatory of Music
+    year: 2
+    image: felita.jpg

@@ -3,7 +3,7 @@ layout: management-committee
 permalink: /about-us/management-committee/
 breadcrumb: Management Committee
 title: Management Committee
-header: 27th Management Committee
+header: 28th Management Committee
 description: The management committee members of NUSSU commIT
 ---
 
