@@ -30,7 +30,7 @@ You will have around five weeks to design for any problem statements that you ar
 
 ## Past CREATION
 
-Last year, we partnered with NUSSU Welfare, NUS Development Office, and NUSSU Enterprise to host three problem statements:
+Last year, we partnered with NUSSU Welfare, NUS Development Office, and NUS Enterprise to host three problem statements:
 
 - Designing Welfare Diary for NUS students
 - Designing key visual for NUS Commencement 2020
