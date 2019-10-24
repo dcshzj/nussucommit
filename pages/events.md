@@ -28,7 +28,7 @@ CREATION is a digital design competition organized by Committee of Information a
 
 The aim of this project is to provide a platform for NUS students to apply their design skills (possibly acquired from other commIT projects such as the training workshops and Cyberia Camp) and showcase it in a creative manner and style – thus the name CREATION which stands for Creative Competition.
 
-[Click here]({{site.baseurl}}/events/creation/) for more information on next year’s CREATION.
+[Click here]({{site.baseurl}}/events/creation/) for more information on CREATION 2020.
 
 ### charITeach
 

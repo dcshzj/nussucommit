@@ -15,7 +15,7 @@ CREATION is one of NUSSU commIT's annual flagship events, a **digital design com
 
 CREATION 2020 aims to push the boundaries of students to do more than the ordinary. We believe in the power of art in changing people's minds and we hope that the artworks produced through our competition will inspire people to change.
 
-This year, we are planning to collaborate with companies, NUS offices, and NUSSU committees to set up problem statements for participants to design. The problem statements can be in the form of designing posters, seasonal greetings, t-shirt design, and other publicity collaterals. Additionally, we will organize free workshops to help you hone your skills before the competition itself. You could win attractive prizes too!
+We are planning to collaborate with companies, NUS offices, and NUSSU committees to set up problem statements for participants to design. The problem statements can be in the form of designing posters, seasonal greetings, t-shirt design, and other publicity collaterals. Additionally, we will organize free workshops to help you hone your skills before the competition itself. You could win attractive prizes too!
 
 
 ## Timeline
@@ -30,7 +30,7 @@ You will have around five weeks to design for any problem statements that you ar
 
 ## Past CREATION
 
-Last year, we partnered with NUSSU Welfare, NUS Development Office, and NUS Enterprise to host three problem statements:
+In the last CREATION, we partnered with NUSSU Welfare, NUS Development Office, and NUS Enterprise to host three problem statements:
 
 - Designing Welfare Diary for NUS students
 - Designing key visual for NUS Commencement 2020
