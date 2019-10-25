@@ -8,7 +8,9 @@ redirect_from:
  - /cyberia/
 ---
 
-Cyberia 2019 is an annual Adobe Photoshop boot camp organized by NUSSU commIT, with the aim of imparting graphic design knowledge and skills to NUS undergraduates to strengthen their skill set. You will learn Adobe Photoshop through trainings by certified professional Adobe Photoshop trainer and a series of fun and exciting games. At the end of the camp, you will have the opportunity to put all the skills you learn to test by coming out an artwork in a competition and win attractive prizes!
+![cyberia2019Logo]({{site.baseurl}}/images/cyberia.png)
+
+Cyberia 2019 is an annual Adobe Photoshop boot camp organized by NUSSU commIT, with the aim of imparting graphic design knowledge and skills to NUS undergraduates to strengthen their skill set. You will learn **Adobe Photoshop** through trainings by **certified** professional Adobe Photoshop trainer and a series of fun and exciting **games**. At the end of the camp, you will have the opportunity to put all the skills you learn to test by coming out an artwork in a **competition** and win attractive prizes!
 
 **As a participant, you will receive:**
 * Comprehensive Adobe Photoshop training + Certificate **(worth $450)**
@@ -16,8 +18,8 @@ Cyberia 2019 is an annual Adobe Photoshop boot camp organized by NUSSU commIT, w
 * Accommodation & meal
 
 **Details of Cyberia 2019:**
-**Date:** 11th -13th December 2019
-**Camp fee:** $60 **(worth $450)**
+* **Date:** 11th -13th December 2019
+* **Camp fee:** $60 **(worth $450)**
 
 Note: The allocation of spaces are based on first-come-first-served basis based on the payment of camp fee. Your rsvp will only be confirmed upon completion of payment of camp fee. **No refund can be made upon payment.**
 
