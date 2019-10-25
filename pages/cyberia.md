@@ -25,9 +25,10 @@ Note: The allocation of spaces are based on first-come-first-served basis based 
 
 Do look up for emails once you completed the rsvp and the payment!
 
-If you have any enquiries, please feel free to reach out to us at [cyberia@nussucommit.com](mailto:cyberia@nussucommit.com).
-
 Sign up now at http://bit.ly/cyberia19 to upskill yourself! See you in the camp!
+
+## Contact Us
+If you have any enquiries, please feel free to reach out to us at [cyberia@nussucommit.com](mailto:cyberia@nussucommit.com).
 
 ## About Acadia Training
 [Acadia Training Pte Ltd](https://www.acadia.sg) was established in July 2012. Our main focus is in corporate software training, especially in graphic and web design.
