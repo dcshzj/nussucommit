@@ -23,7 +23,7 @@ Cyberia 2019 is an annual Adobe Photoshop boot camp organized by NUSSU commIT, w
 
 Note: The allocation of spaces are based on first-come-first-served basis based on the payment of camp fee. Your RSVP will only be confirmed upon completion of payment of camp fee. **No refund can be made upon payment.**
 
-Do look up for emails once you completed the rsvp and the payment!
+Do look up for emails once you completed the RSVP and the payment!
 
 Sign up now at http://bit.ly/cyberia19 to upskill yourself! See you in the camp!
 
