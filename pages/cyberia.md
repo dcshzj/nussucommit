@@ -19,7 +19,7 @@ Cyberia 2019 is an annual Adobe Photoshop boot camp organized by NUSSU commIT, w
 
 **Details of Cyberia 2019:**
 * **Date:** 11th - 13th December 2019
-* **Camp fee:** $60 **(worth $450)**
+* **Camp fee:** **$60** (worth $450)
 
 Note: The allocation of spaces are based on first-come-first-served basis based on the payment of camp fee. Your RSVP will only be confirmed upon completion of payment of camp fee. **No refund can be made upon payment.**
 
