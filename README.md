@@ -1,5 +1,5 @@
 # NUSSU commIT main website
-This is the main website for the NUS Students' Union Committee for Information Technology (NUSSU commIT0.
+This is the main website for the NUS Students' Union Committee for Information Technology (NUSSU commIT).
 
 ## Setting up
 Check out this repository and run the following commands inside the repository folder:
