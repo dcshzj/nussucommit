@@ -33,7 +33,7 @@ You will have around five weeks to design for any problem statements that you ar
 In the last CREATION, we partnered with NUSSU Welfare, NUS Development Office, and NUS Enterprise to host three problem statements:
 
 - Designing Welfare Diary for NUS students
-- Designing key visual for NUS Commencement 2020
+- Designing key visual for NUS Commencement Class Giving 2020
 - Designing promotional poster for NUS Overseas College (NOC)
 
 Winning designs were awarded amazing prizes such as Apple iPad and Nintendo Switch.
