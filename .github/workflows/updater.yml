@@ -1,0 +1,24 @@
+name: Update operating hours
+
+on:
+  schedule:
+    - cron:  '0 16 * * *'
+
+jobs:
+  updateHours:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run the updating script
+      run: python updater.py
+      shell: bash
+      working-directory: $GITHUB_WORKSPACE/do-not-touch
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: Update operating hours
+        title: Automated update of operating hours
+        body: This is an automatically generated pull request for updating the operating hours.
+        branch: hours
+        branch-suffix: short-commit-hash
