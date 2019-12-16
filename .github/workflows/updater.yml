@@ -2,7 +2,7 @@ name: Update operating hours
 
 on:
   schedule:
-    - cron:  '0 16 * * *'
+    - cron:  '8 16 * * *'
 
 jobs:
   updateHours:
@@ -12,7 +12,7 @@ jobs:
     - name: Run the updating script
       run: python updater.py
       shell: bash
-      working-directory: $GITHUB_WORKSPACE/do-not-touch
+      working-directory: ./do-not-touch
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v1
       with:
