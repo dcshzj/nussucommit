@@ -17,7 +17,7 @@ jobs:
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git commit -m "Automated update of operating hours" -a
+        git commit -m "Automated update of operating hours" -a || echo "Nothing to update"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
