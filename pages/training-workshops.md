@@ -44,11 +44,17 @@ Our workshop will cover these topics which will bring you from the introductory 
 * Pivot Table and Pivot Chart
 * Functions (IF, HLOOKUP, VLOOKUP)
 
-There will be one Microsoft Excel workshop in Semester 1 AY2019/20. The workshop will be held on:
+There will be **two** Microsoft Excel workshops in Semester 2 AY2019/20. The first workshop will be held on:
 
-* **Date**: Saturday, 14 September 2019
+* **Date**: Saturday, 8 February 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: Seminar Room 3 (COM1 02-12), School of Computing
+* **Venue**: _To be confirmed_
+
+The second workshop will be held on:
+
+* **Date**: Saturday, 14 March 2020
+* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
+* **Venue**: _To be confirmed_
 
 **Note: Please bring your own laptop with Microsoft Excel installed. We will be using the latest version of [Microsoft Office 365](https://www.office.com).**
 
@@ -67,11 +73,23 @@ The premier and leading graphics-editing software in the world. Used by professi
 * Selective Adjustments
 * Filter, Liquify
 
-There will be one Adobe Photoshop workshop in Semester 1 AY2019/20. The workshop will be held on:
+There will be **three** Adobe Photoshop workshops in Semester 2 AY2019/20. The first workshop will be held on:
 
-* **Date**: Saturday, 12 October 2019
+* **Date**: Saturday, 1 February 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
 * **Venue**: PC Cluster 5 & 6 (Blk E2 03-08/09), Faculty of Engineering
+
+The second workshop will be held on:
+
+* **Date**: Saturday, 14 March 2020
+* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
+* **Venue**: PC Cluster 4 & 5 (Blk E2 03-07/08), Faculty of Engineering
+
+The third workshop will be held on:
+
+* **Date**: Saturday, 4 April 2020
+* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
+* **Venue**: PC Cluster 4 (Blk E2 03-07), Faculty of Engineering
 
 ### Adobe Illustrator
 
@@ -84,8 +102,14 @@ Another one from the Adobe family, the world’s best digital editing software, 
 * Image Tracing
 * Effects
 
-There will be one Adobe Illustrator workshop in Semester 1 AY2019/20. The workshop will be held on:
+There will be **two** Adobe Illustrator workshops in Semester 2 AY2019/20. The first workshop will be held on:
 
-* **Date**: Saturday, 26 October 2019
+* **Date**: Saturday, 15 February 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: PC Cluster 5 & 6 (Blk E2 03-08/09), Faculty of Engineering
+* **Venue**: PC Cluster 4 & 5 (Blk E2 03-07/08), Faculty of Engineering
+
+The second workshop will be held on:
+
+* **Date**: Saturday, 4 April 2020
+* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
+* **Venue**: PC Cluster 5 (Blk E2 03-08), Faculty of Engineering
