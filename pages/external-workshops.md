@@ -72,6 +72,6 @@ A glimpse of the topics that will covered include:
 The workshop jointly organised with Acadia Training will be held at:
 
 * **Date**: Tuesday, 25 February 2020
-* **Time**: 09:45 – 17:00
+* **Time**: 09:45 – 17:00 (inclusive of 1 hour break; lunch will be provided)
 * **Venue**: _To be confirmed_
 * **Price**: $20 per person (payable via NUSFastPay)
