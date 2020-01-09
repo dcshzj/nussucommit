@@ -48,13 +48,15 @@ There will be **two** Microsoft Excel workshops in Semester 2 AY2019/20. The fir
 
 * **Date**: Saturday, 8 February 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: _To be confirmed_
+* **Venue**: Global Learning Room, Stephen Riady Centre, University Town
+* **RSVP Link**: https://nus.campuslabs.com/engage/event/5322222
 
 The second workshop will be held on:
 
 * **Date**: Saturday, 14 March 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: _To be confirmed_
+* **Venue**: Global Learning Room, Stephen Riady Centre, University Town
+* **RSVP Link**: https://nus.campuslabs.com/engage/event/5322221
 
 **Note: Please bring your own laptop with Microsoft Excel installed. We will be using the latest version of [Microsoft Office 365](https://www.office.com).**
 
