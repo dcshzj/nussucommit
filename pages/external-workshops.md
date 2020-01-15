@@ -72,6 +72,7 @@ A glimpse of the topics that will covered include:
 The workshop jointly organised with Acadia Training will be held at:
 
 * **Date**: Tuesday, 25 February 2020
-* **Time**: 09:45 – 17:00 (inclusive of 1 hour break; lunch will be provided)
-* **Venue**: _To be confirmed_
-* **Price**: $20 per person (payable via NUSFastPay)
+* **Time**: 10:00 – 17:00 (inclusive of 1 hour break; lunch will be provided)
+* **Venue**: LT 52, Stephen Riady Centre, University Town
+* **Price**: $20 per person (payable via [NUSFastPay](https://nusfastpay.nus.edu.sg/VBA20))
+* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5322223>

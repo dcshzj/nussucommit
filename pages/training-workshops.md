@@ -48,13 +48,15 @@ There will be **two** Microsoft Excel workshops in Semester 2 AY2019/20. The fir
 
 * **Date**: Saturday, 8 February 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: _To be confirmed_
+* **Venue**: Global Learning Room, Stephen Riady Centre, University Town
+* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5322222>
 
 The second workshop will be held on:
 
 * **Date**: Saturday, 14 March 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: _To be confirmed_
+* **Venue**: Global Learning Room, Stephen Riady Centre, University Town
+* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5322221>
 
 **Note: Please bring your own laptop with Microsoft Excel installed. We will be using the latest version of [Microsoft Office 365](https://www.office.com).**
 
@@ -78,18 +80,21 @@ There will be **three** Adobe Photoshop workshops in Semester 2 AY2019/20. The f
 * **Date**: Saturday, 1 February 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
 * **Venue**: PC Cluster 5 & 6 (Blk E2 03-08/09), Faculty of Engineering
+* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395745>
 
 The second workshop will be held on:
 
 * **Date**: Saturday, 14 March 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
 * **Venue**: PC Cluster 4 & 5 (Blk E2 03-07/08), Faculty of Engineering
+* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395743>
 
 The third workshop will be held on:
 
 * **Date**: Saturday, 4 April 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
 * **Venue**: PC Cluster 4 (Blk E2 03-07), Faculty of Engineering
+* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395742>
 
 ### Adobe Illustrator
 
@@ -107,9 +112,11 @@ There will be **two** Adobe Illustrator workshops in Semester 2 AY2019/20. The f
 * **Date**: Saturday, 15 February 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
 * **Venue**: PC Cluster 4 & 5 (Blk E2 03-07/08), Faculty of Engineering
+* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395744>
 
 The second workshop will be held on:
 
 * **Date**: Saturday, 4 April 2020
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
 * **Venue**: PC Cluster 5 (Blk E2 03-08), Faculty of Engineering
+* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395741>
