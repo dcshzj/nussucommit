@@ -22,7 +22,7 @@ Registration for Cyberia Camp usually opens in Semester 1 around October. Stay t
 
 ### CREATION
 
-[<img class="has-shadow" src="{{- site.baseurl -}}/images/creation.jpg" alt="CREATION" style="width:70%">](/events/creation/)
+[<img class="has-shadow" src="{{- site.baseurl -}}/images/creation.png" alt="CREATION" style="width:70%">](/events/creation/)
 
 CREATION is a digital design competition organized by Committee of Information and Technology. This competition is open to all NUS students, who create artworks by using any IT softwares such as Photoshop and Illustrator. The winners will be given amazing prizes from our partners.
 
