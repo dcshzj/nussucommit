@@ -8,7 +8,7 @@ redirect_from:
  - /creation/
 ---
 
-CREATION is one of NUSSU commIT's annual flagship events, a **digital design competition** open to all NUS students. CREATION hopes to provide a platform for NUS students to pursue their artistic passion and foster their design skills by tackling real-world problem statements.
+CREATION is one of NUSSU commIT's annual flagship events, a **digital design competition** open to all NUS students. CREATION hopes to provide a platform for NUS students to pursue their artistic passion and foster their design skills by tackling real-world problem statements. Visit [creation.nussucommit.com](https://creation.nussucommit.com) to sign up/for more information!
 
 
 ## CREATION 2020: *Dare To Inspire!*
@@ -40,4 +40,4 @@ Winning designs were awarded amazing prizes such as Apple iPad and Nintendo Swit
 
 ## Contact us
 
-Please email us at [creation@nussucommit.com](mailto:creation@nussucommit.com) if you have any questions. You can also subscribe to our [mailing list](/contact/#mailing-list) to keep you updated with any future information. See you in CREATION 2020!
+Visit [creation.nussucommit.com](https://creation.nussucommit.com) to sign up/for more information!. See you in CREATION 2020!
