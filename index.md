@@ -4,3 +4,4 @@ description: We are part of the National University of Singapore Students' Union
 permalink: /
 ---
 {%- comment -%} Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage {%- endcomment -%}
+Our centres will be closed for the Chinese New Year holidays and will reopen on 28 January 2020. Happy Chinese New Year!
