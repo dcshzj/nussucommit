@@ -76,3 +76,5 @@ The workshop jointly organised with Acadia Training will be held at:
 * **Venue**: LT 52, Stephen Riady Centre, University Town
 * **Price**: $20 per person (payable via [NUSFastPay](https://nusfastpay.nus.edu.sg/VBA20))
 * **RSVP Link**: <https://nus.campuslabs.com/engage/event/5322223>
+
+**Note: Please bring along a <u>Windows</u> laptop for this workshop!**
