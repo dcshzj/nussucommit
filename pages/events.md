@@ -34,12 +34,10 @@ The aim of this project is to provide a platform for NUS students to apply their
 
 [<img class="has-shadow" src="{{- site.baseurl -}}/images/chariteach.jpg" alt="charITeach" style="width:70%">](/events/chariteach/)
 
-We at NUSSU commIT hold the belief that knowledge is meant to be shared. From that belief, we created another major event, named charITeach. charITeach is a new initiative which kick-started in April 2013. It is a combination of IT training and community service, providing the participants an opportunity to learn and teach.
+NUSSU commIT strongly believes that knowledge is meant to be shared. Stemming from that belief, we initiated charITeach in April 2013. charITeach is an annual event that combines IT training and charity work, hence the name, providing the NUS community with an opportunity to learn and contribute to the society at the same time. charITeach aims to extend a helping hand to underprivileged children in Singapore through the teaching of IT skills using Scratch - a visual programming platform developed by MIT.
 
-We believe that NUS students should be empowered with the necessary skills to spread their knowledge to those who are less fortunate than them. Hence, on Day 1, participants will receive up to 6 hours of professional training in IT software. In addition to empowering them with the skills, we provide them with a channel to spread their knowledge to charitable organizations all over Singapore. Therefore, on Day 2 in the following week, participants will be teaching the software to our beneficiaries for up to 2 hours followed by fun-bonding activities and a designing competition among the participants from beneficiaries.
+charITeach is a two-day event, consisting of Volunteer Training and Beneficiaries Invitation. During Volunteer Training, the volunteers will receive free Scratch training conducted by a professional training company, Code for Asia. This will equip the volunteers with the necessary skills. Then, during Beneficiaries Invitation, children from various beneficiaries around Singapore will be invited to the NUS campus for a fun introductory course to programming using Scratch conducted by the NUS volunteers. There will also be games and activities to facilitate bonding between the children and volunteers.
 
-The software we teach is Scratch, which is a programming language that is extremely beginner friendly. Previously, we used to teach Adobe Photoshop but we transitioned to teaching Scratch as it is more popular with children.
-
-We hope that through this event, we can become the impetus, the catalyst to a knowledge-sharing community in NUS. charITeach is a meaningful project bound to provide both the participants and beneficiaries a fulfilling experience.
+NUSSU commIT hopes that through this event, we can become the impetus, the catalyst to a knowledge-sharing community in NUS. charITeach is a meaningful project bound to provide both the participants and beneficiaries a fulfilling experience.
 
 [Click here]({{site.baseurl}}/events/chariteach/) for more information on this year’s charITeach.
