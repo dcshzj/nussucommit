@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: charITeach 2019
-header: charITeach 2019
+title: charITeach 2020
+header: charITeach 2020
 permalink: /events/chariteach/
 breadcrumb: charITeach
 redirect_from:
