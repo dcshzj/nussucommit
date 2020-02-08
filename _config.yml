@@ -44,7 +44,7 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 # - exams: Exam period operating hours
 # - holidays: Holiday period operating hours
 # Refer to below section to change the actual hours
-operating-type: default
+operating-type: special
 
 ###### DO NOT TOUCH BELOW THIS LINE UNLESS YOU KNOW WHAT YOU ARE DOING!!! ######
 # Sponsor details
@@ -139,6 +139,26 @@ operating-hours:
         time: "08:00 - 17:00"
       description: "Closed on Sundays and public holidays"
       smallnote: "Note: Our operating hours are shorter due to the university vacation"
+      
+  special:
+    YIH:
+      hours:
+      - days: "Monday - Friday"
+        time: "Closed"
+      - days: "Saturday"
+        time: "Closed"
+      - days: "Sunday and public holidays"
+        time: "Closed"
+      description: "<b>Note</b>: Our centres are closed due to the Orange DORSCON alert level"
+    AS8:
+      hours:
+      - days: "Monday - Friday"
+        time: "Closed"
+      - days: "Saturday"
+        time: "Closed"
+      - days: "Sunday and public holidays"
+        time: "Closed"
+      description: "<b>Note</b>: Our centres are closed due to the Orange DORSCON alert level"
 
 # Breadcrumbs
 breadcrumbs:
