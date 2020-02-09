@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- if site.operating-type == "default" or site.operating-type == "exams" or site.operating-type == "holidays" -%}
+{%- if site.operating-type == "default" or site.operating-type == "exams" or site.operating-type == "holidays" or site.operating-type == "special" -%}
 {%- assign operating-hours = site.operating-hours[site.operating-type] -%}
 {%- else -%}
 {%- assign operating-hours = site.operating-hours["default"] -%}
