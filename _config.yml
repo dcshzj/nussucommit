@@ -149,7 +149,7 @@ operating-hours:
         time: "Closed"
       - days: "Sunday and public holidays"
         time: "Closed"
-      description: "<b>Note</b>: Our centres are closed due to the Orange DORSCON alert level"
+      description: "<b>Note</b>: Our centres are <b>closed</b> due to the Orange DORSCON alert level"
     AS8:
       hours:
       - days: "Monday - Friday"
@@ -158,7 +158,7 @@ operating-hours:
         time: "Closed"
       - days: "Sunday and public holidays"
         time: "Closed"
-      description: "<b>Note</b>: Our centres are closed due to the Orange DORSCON alert level"
+      description: "<b>Note</b>: Our centres are <b>closed</b> due to the Orange DORSCON alert level"
 
 # Breadcrumbs
 breadcrumbs:
