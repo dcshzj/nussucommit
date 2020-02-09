@@ -21,7 +21,7 @@ In AS8, we have more than 44 PCs there, with internet access and printing.
 Here is our centre’s operating hours:
 
 {% assign locations = site.locations %}
-{% if site.operating-type == "default" or site.operating-type == "exams" or site.operating-type == "holidays" %}
+{% if site.operating-type == "default" or site.operating-type == "exams" or site.operating-type == "holidays" or site.operating-type == "special" %}
 {% assign type = site.operating-type %}
 {% else %}
 {% assign type = "default" %}
