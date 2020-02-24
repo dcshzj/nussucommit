@@ -57,6 +57,7 @@ The second workshop will be held on:
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
 * **Venue**: Global Learning Room, Stephen Riady Centre, University Town
 * **RSVP Link**: <https://nus.campuslabs.com/engage/event/5322221>
+* **Important note: This workshop has been <u>cancelled</u> due to the suspension of CCAs as advised in circular SDPPVO 07/20**
 
 **Note: Please bring your own laptop with Microsoft Excel installed. We will be using the latest version of [Microsoft Office 365](https://www.office.com).**
 
@@ -88,6 +89,7 @@ The second workshop will be held on:
 * **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
 * **Venue**: PC Cluster 4 & 5 (Blk E2 03-07/08), Faculty of Engineering
 * **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395743>
+* **Important note: This workshop has been <u>cancelled</u> due to the suspension of CCAs as advised in circular SDPPVO 07/20**
 
 The third workshop will be held on:
 
