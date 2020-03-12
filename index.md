@@ -4,3 +4,4 @@ description: We are part of the National University of Singapore Students' Union
 permalink: /
 ---
 {%- comment -%} Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage {%- endcomment -%}
+Our computer centres have re-opened! Additional precautionary measures have been put in place for your safety.
