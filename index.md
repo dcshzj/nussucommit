@@ -4,4 +4,3 @@ description: We are part of the National University of Singapore Students' Union
 permalink: /
 ---
 {%- comment -%} Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage {%- endcomment -%}
-Due to the Orange DORSCON alert level, our computer centres are closed until further notice.

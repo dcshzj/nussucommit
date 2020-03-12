@@ -139,26 +139,26 @@ operating-hours:
         time: "08:00 - 17:00"
       description: "Closed on Sundays and public holidays"
       smallnote: "Note: Our operating hours are shorter due to the university vacation"
-      
+
   special:
     YIH:
       hours:
       - days: "Monday - Friday"
-        time: "Closed"
+        time: "08:30 - 20:00"
       - days: "Saturday"
-        time: "Closed"
-      - days: "Sunday and public holidays"
-        time: "Closed"
-      description: "<b>Note</b>: Our centres are <b>closed</b> due to the Orange DORSCON alert level"
+        time: "08:30 - 16:00"
+      - days: "Sunday"
+        time: "09:30 - 14:00"
+      description: "Closed on public holidays"
+      smallnote: "Note: Our closing hours are an hour earlier to facilitate disinfection work"
     AS8:
       hours:
       - days: "Monday - Friday"
-        time: "Closed"
+        time: "08:00 - 20:00"
       - days: "Saturday"
-        time: "Closed"
-      - days: "Sunday and public holidays"
-        time: "Closed"
-      description: "<b>Note</b>: Our centres are <b>closed</b> due to the Orange DORSCON alert level"
+        time: "08:00 - 18:00"
+      description: "Closed on Sundays and public holidays"
+      smallnote: "Note: Our closing hours are an hour earlier to facilitate disinfection work"
 
 # Breadcrumbs
 breadcrumbs:
