@@ -147,18 +147,13 @@ operating-hours:
         time: "08:30 - 20:00"
       - days: "Saturday"
         time: "08:30 - 16:00"
-      - days: "Sunday"
-        time: "09:30 - 14:00"
-      description: "Closed on public holidays"
+      description: "Closed on Sundays and public holidays"
       smallnote: "Note: Our closing hours are an hour earlier to facilitate disinfection work"
     AS8:
       hours:
-      - days: "Monday - Friday"
-        time: "08:00 - 20:00"
-      - days: "Saturday"
-        time: "08:00 - 18:00"
-      description: "Closed on Sundays and public holidays"
-      smallnote: "Note: Our closing hours are an hour earlier to facilitate disinfection work"
+      - days: "Monday - Sunday"
+        time: "Closed"
+      description: "Please proceed to Central Library for printing services."
 
 # Breadcrumbs
 breadcrumbs:
