@@ -143,17 +143,16 @@ operating-hours:
   special:
     YIH:
       hours:
-      - days: "Monday - Friday"
-        time: "08:30 - 20:00"
-      - days: "Saturday"
-        time: "08:30 - 16:00"
-      description: "Closed on Sundays and public holidays"
-      smallnote: "Note: Our closing hours are an hour earlier to facilitate disinfection work"
+      - days: "Monday - Sunday"
+        time: "Closed"
+      description: "Please proceed to PC Commons at University Town for printing services."
+      smallnote: "You may contact NUS at <a href=\"mailto:NUSHelps@nus.edu.sg\">NUSHelps@nus.edu.sg</a> for more information"
     AS8:
       hours:
       - days: "Monday - Sunday"
         time: "Closed"
-      description: "Please proceed to Central Library for printing services."
+      description: "Please proceed to PC Commons at University Town for printing services."
+      smallnote: "You may contact NUS at <a href=\"mailto:NUSHelps@nus.edu.sg\">NUSHelps@nus.edu.sg</a> for more information"
 
 # Breadcrumbs
 breadcrumbs:
