@@ -17,7 +17,7 @@ The Annual General Meeting (AGM) 2020 will be held on:
 
 Please join the Zoom meeting at **08:45** as we will be starting the AGM at **09:00 sharp**. There will be no lunch break, but we will have a toilet break in between. So, please remember to have your breakfast!
 
-## Pitching Sequence
+## MC Candidates Pitching Sequence
 <table>
     <tbody>
         <tr>
@@ -175,7 +175,7 @@ Please join the Zoom meeting at **08:45** as we will be starting the AGM at **09
     </tbody>
 </table>
 
-## Top 3 Pitching Sequence
+## Top 3 Candidates Pitching Sequence
 <table>
     <tbody>
         <tr>
