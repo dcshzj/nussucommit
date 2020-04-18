@@ -53,7 +53,7 @@ Please join the Zoom meeting at **08:45** as we will be starting the AGM at **09
                     <p>2</p>
                 </td>
                 <td>
-                    <p>Benny</p>
+                    <p>Benny Winata Hartanto</p>
                 </td>
                 <td>
                     <p>Ops &amp; Logs</p>
