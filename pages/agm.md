@@ -157,7 +157,7 @@ Please join the Zoom meeting at **08:45** as we will be starting the AGM at **09
                     <p>Technical</p>
                 </td>
                 <td>
-                    <p>Secretary</p>
+                    <p></p>
                 </td>
             </tr>
             <tr>
