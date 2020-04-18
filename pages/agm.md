@@ -35,257 +35,257 @@ Please join the Zoom meeting at **08:45** as we will be starting the AGM at **09
             </th>
         </tr>
         <tr>
-                <td>
-                    <p>1</p>
-                </td>
-                <td>
-                    <p>Darren Tan Wee Kok</p>
-                </td>
-                <td>
-                    <p>Marketing</p>
-                </td>
-                <td>
-                    <p>Welfare</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>2</p>
-                </td>
-                <td>
-                    <p>Benny Winata Hartanto</p>
-                </td>
-                <td>
-                    <p>Ops &amp; Logs</p>
-                </td>
-                <td>
-                    <p>Marketing</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>3</p>
-                </td>
-                <td>
-                    <p>Albert Reinardo</p>
-                </td>
-                <td>
-                    <p>Treasurer</p>
-                </td>
-                <td>
-                    <p>Marketing</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>4</p>
-                </td>
-                <td>
-                    <p>Felix Halim</p>
-                </td>
-                <td>
-                    <p>Publicity</p>
-                </td>
-                <td>
-                    <p>Welfare</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>5</p>
-                </td>
-                <td>
-                    <p>Lucia Tirta Gunawan</p>
-                </td>
-                <td>
-                    <p>Publicity</p>
-                </td>
-                <td>
-                    <p></p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>6</p>
-                </td>
-                <td>
-                    <p>Michela Vieri</p>
-                </td>
-                <td>
-                    <p>Publicity</p>
-                </td>
-                <td>
-                    <p></p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>7</p>
-                </td>
-                <td>
-                    <p>Seow Jia Geng</p>
-                </td>
-                <td>
-                    <p>Training</p>
-                </td>
-                <td>
-                    <p>Publicity</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>8</p>
-                </td>
-                <td>
-                    <p>Teo Yu Xing</p>
-                </td>
-                <td>
-                    <p>Training</p>
-                </td>
-                <td>
-                    <p>Publicity</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>9</p>
-                </td>
-                <td>
-                    <p>Nicholas Cristian Fernando</p>
-                </td>
-                <td>
-                    <p>Technical</p>
-                </td>
-                <td>
-                    <p></p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>10</p>
-                </td>
-                <td>
-                    <p>Chong Jing Quan</p>
-                </td>
-                <td>
-                    <p>Technical</p>
-                </td>
-                <td>
-                    <p>Training</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>11</p>
-                </td>
-                <td>
-                    <p>Ricky Wahyudi</p>
-                </td>
-                <td>
-                    <p>Training</p>
-                </td>
-                <td>
-                    <p></p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>12</p>
-                </td>
-                <td>
-                    <p>Kenny Hermawan</p>
-                </td>
-                <td>
-                    <p>Secretary</p>
-                </td>
-                <td>
-                    <p>Training</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>13</p>
-                </td>
-                <td>
-                    <p>Levina Nathania</p>
-                </td>
-                <td>
-                    <p>Secretary</p>
-                </td>
-                <td>
-                    <p>Welfare</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>14</p>
-                </td>
-                <td>
-                    <p>Alyssa Alexandra Harijanto</p>
-                </td>
-                <td>
-                    <p>Treasurer</p>
-                </td>
-                <td>
-                    <p>Ops &amp; Logs</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>15</p>
-                </td>
-                <td>
-                    <p>Hubertus Adhy Pratama Setiawan</p>
-                </td>
-                <td>
-                    <p>Treasurer</p>
-                </td>
-                <td>
-                    <p>Ops &amp; Logs</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>16</p>
-                </td>
-                <td>
-                    <p>Lim Jie Xi</p>
-                </td>
-                <td>
-                    <p>Treasurer</p>
-                </td>
-                <td>
-                    <p>Ops &amp; Logs</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>17</p>
-                </td>
-                <td>
-                    <p>Christian Steven Jonathan</p>
-                </td>
-                <td>
-                    <p>Ops &amp; Logs</p>
-                </td>
-                <td>
-                    <p></p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>18</p>
-                </td>
-                <td>
-                    <p>Aldo Maximillian Sugito</p>
-                </td>
-                <td>
-                    <p>Publicity</p>
-                </td>
-                <td>
-                    <p>Ops &amp; Logs</p>
-                </td>
-            </tr>
+            <td>
+                <p>1</p>
+            </td>
+            <td>
+                <p>Darren Tan Wee Kok</p>
+            </td>
+            <td>
+                <p>Marketing</p>
+            </td>
+            <td>
+                <p>Welfare</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>2</p>
+            </td>
+            <td>
+                <p>Benny Winata Hartanto</p>
+            </td>
+            <td>
+                <p>Ops &amp; Logs</p>
+            </td>
+            <td>
+                <p>Marketing</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>3</p>
+            </td>
+            <td>
+                <p>Albert Reinardo</p>
+            </td>
+            <td>
+                <p>Treasurer</p>
+            </td>
+            <td>
+                <p>Marketing</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>4</p>
+            </td>
+            <td>
+                <p>Felix Halim</p>
+            </td>
+            <td>
+                <p>Publicity</p>
+            </td>
+            <td>
+                <p>Welfare</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>5</p>
+            </td>
+            <td>
+                <p>Lucia Tirta Gunawan</p>
+            </td>
+            <td>
+                <p>Publicity</p>
+            </td>
+            <td>
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>6</p>
+            </td>
+            <td>
+                <p>Michela Vieri</p>
+            </td>
+            <td>
+                <p>Publicity</p>
+            </td>
+            <td>
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>7</p>
+            </td>
+            <td>
+                <p>Seow Jia Geng</p>
+            </td>
+            <td>
+                <p>Training</p>
+            </td>
+            <td>
+                <p>Publicity</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>8</p>
+            </td>
+            <td>
+                <p>Teo Yu Xing</p>
+            </td>
+            <td>
+                <p>Training</p>
+            </td>
+            <td>
+                <p>Publicity</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>9</p>
+            </td>
+            <td>
+                <p>Nicholas Cristian Fernando</p>
+            </td>
+            <td>
+                <p>Technical</p>
+            </td>
+            <td>
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>10</p>
+            </td>
+            <td>
+                <p>Chong Jing Quan</p>
+            </td>
+            <td>
+                <p>Technical</p>
+            </td>
+            <td>
+                <p>Training</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>11</p>
+            </td>
+            <td>
+                <p>Ricky Wahyudi</p>
+            </td>
+            <td>
+                <p>Training</p>
+            </td>
+            <td>
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>12</p>
+            </td>
+            <td>
+                <p>Kenny Hermawan</p>
+            </td>
+            <td>
+                <p>Secretary</p>
+            </td>
+            <td>
+                <p>Training</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>13</p>
+            </td>
+            <td>
+                <p>Levina Nathania</p>
+            </td>
+            <td>
+                <p>Secretary</p>
+            </td>
+            <td>
+                <p>Welfare</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>14</p>
+            </td>
+            <td>
+                <p>Alyssa Alexandra Harijanto</p>
+            </td>
+            <td>
+                <p>Treasurer</p>
+            </td>
+            <td>
+                <p>Ops &amp; Logs</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>15</p>
+            </td>
+            <td>
+                <p>Hubertus Adhy Pratama Setiawan</p>
+            </td>
+            <td>
+                <p>Treasurer</p>
+            </td>
+            <td>
+                <p>Ops &amp; Logs</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>16</p>
+            </td>
+            <td>
+                <p>Lim Jie Xi</p>
+            </td>
+            <td>
+                <p>Treasurer</p>
+            </td>
+            <td>
+                <p>Ops &amp; Logs</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>17</p>
+            </td>
+            <td>
+                <p>Christian Steven Jonathan</p>
+            </td>
+            <td>
+                <p>Ops &amp; Logs</p>
+            </td>
+            <td>
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>18</p>
+            </td>
+            <td>
+                <p>Aldo Maximillian Sugito</p>
+            </td>
+            <td>
+                <p>Publicity</p>
+            </td>
+            <td>
+                <p>Ops &amp; Logs</p>
+            </td>
+        </tr>
     </tbody>
 </table>
 
