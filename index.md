@@ -4,4 +4,4 @@ description: We are part of the National University of Singapore Students' Union
 permalink: /
 ---
 {%- comment -%} Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage {%- endcomment -%}
-As part of the Circuit Breaker measures, our centres will be closed from 6 April 2020 until further notice.
+As we move to Phase 2 of Circuir Breaker, our centres have reopened with additional safety measures in place.
