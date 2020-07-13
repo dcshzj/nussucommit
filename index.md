@@ -4,4 +4,4 @@ description: We are part of the National University of Singapore Students' Union
 permalink: /
 ---
 {%- comment -%} Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage {%- endcomment -%}
-As we move to Phase 2 of Circuir Breaker, our centres have reopened with additional safety measures in place.
+As we move to Phase 2 of Circuit Breaker, our centres have reopened with additional safety measures in place.
