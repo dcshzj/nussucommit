@@ -6,6 +6,7 @@
     title: Co-Director
     faculty: School of Computing
     year: 4
+    image: ronald.jpg
 
 # Vice Chairperson
 - members:
@@ -13,10 +14,12 @@
     title: Co-Director
     faculty: Faculty of Engineering
     year: 3
+    image: steven.jpg
   - name: Matheus Aaron
     title: Co-Director
     faculty: School of Computing
     year: 3
+    image: matheus.jpg
 
 # Secretary
 - members:
@@ -24,10 +27,12 @@
     title: Secretary
     faculty: School of Computing
     year: 2
+    image: kenny.jpg
   - name: Levina Nathania
     title: Secretary
     faculty: Business School
     year: 2
+    image: levina.jpg
 
 # Treasurer
 - members:
@@ -35,10 +40,12 @@
     title: Treasurer
     faculty: Faculty of Science
     year: 2
+    image: alyssa.jpg
   - name: Lim Jie Xi
     title: Treasurer
     faculty: School of Computing
     year: 2
+    image: jiexi.jpg
 
 # Operations & Logistics
 - members:
@@ -46,10 +53,12 @@
     title: Operations & Logistics Director
     faculty: Faculty of Engineering
     year: 2
+    image: benny.jpg
   - name: Hubertus Adhy Pratama Setiawan
     title: Operations & Logstics Director
     faculty: School of Computing
     year: 2
+    image: adhy.jpg
 
 # Marketing
 - members:
@@ -57,10 +66,12 @@
     title: Marketing Director
     faculty: School of Design and Environment
     year: 2
+    image: albert.jpg
   - name: Darren Tan Wee Kok
     title: Marketing Director
     faculty: Faculty of Arts and Social Sciences
     year: 3
+    image: darren.jpg
 
 # Publicity
 - members:
@@ -68,10 +79,12 @@
     title: Publicity Director
     faculty: School of Computing
     year: 2
+    image: lucia.jpg
   - name: Michela Vieri
     title: Publicity Director
     faculty: School of Computing
     year: 2
+    image: michela.jpg
 
 # Technical
 - members:
@@ -79,10 +92,12 @@
     title: Technical Director
     faculty: Faculty of Science
     year: 2
+    image: jingquan.jpg
   - name: Nicholas Cristian Fernando
     title: Technical Director
     faculty: Faculty of Engineering
     year: 4
+    image: nicholas.jpg
 
 # Training
 - members:
@@ -90,10 +105,12 @@
     title: Training Director
     faculty: Faculty of Engineering
     year: 2
+    image: ricky.jpg
   - name: Teo Yu Xing
     title: Training Director
     faculty: Faculty of Engineering
     year: 2
+    image: yuxing.jpg
 
 # Welfare
 - members:
@@ -101,7 +118,9 @@
     title: Welfare Director
     faculty: Faculty of Engineering
     year: 2
+    image: aldo.jpg
   - name: Felix Halim
     title: Welfare Director
     faculty: School of Computing
     year: 2
+    image: felix.jpg
