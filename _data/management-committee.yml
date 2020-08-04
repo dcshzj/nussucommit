@@ -2,124 +2,106 @@
 # Note: image should be in the /images/mc/ folder
 # Chairperson
 - members:
-  - name: Gan Xin Ying
-    title: Chairperson
-    faculty: School of Business
+  - name: Ronald Santoso
+    title: Co-Director
+    faculty: School of Computing
     year: 4
-    image: xinying.jpg
 
 # Vice Chairperson
 - members:
-  - name: Hsu Zhong Jun
-    title: Vice Chairperson
-    faculty: School of Computing
-    year: 2
-    image: zhongjun.jpg
-  - name: Calvin Ng Khai Boon
-    title: Vice Chairperson
+  - name: Christian Steven Jonathan
+    title: Co-Director
     faculty: Faculty of Engineering
     year: 3
-    image: calvin.jpg
+  - name: Matheus Aaron
+    title: Co-Director
+    faculty: School of Computing
+    year: 3
 
 # Secretary
 - members:
-  - name: Isabelle Ho Gin
-    title: Secretary
-    faculty: Faculty of Engineering
-    year: 3
-    image: isabelle.jpg
-  - name: Kheng Yau Dong
+  - name: Kenny Hermawan
     title: Secretary
     faculty: School of Computing
     year: 2
-    image: yaudong.jpg
+  - name: Levina Nathania
+    title: Secretary
+    faculty: Business School
+    year: 2
 
 # Treasurer
 - members:
-  - name: Hilda Anggraeni
+  - name: Alyssa Alexandra Harijanto
+    title: Treasurer
+    faculty: Faculty of Science
+    year: 2
+  - name: Lim Jie Xi
     title: Treasurer
     faculty: School of Computing
-    year: 3
-    image: hilda.jpg
-  - name: Lim Wen Hong
-    title: Treasurer
-    faculty: School of Business
     year: 2
-    image: wenhong.jpg
 
-# Logistics & Operations
+# Operations & Logistics
 - members:
-  - name: Wilson Wongso Soengkono
-    title: Logistics & Operations Manager
+  - name: Benny Winata Hartanto
+    title: Operations & Logistics Director
     faculty: Faculty of Engineering
-    year: 3
-    image: wilson.jpg
-  - name: Rachel Pek Xin Yi
-    title: Logistics & Operations Manager
-    faculty: Faculty of Arts and Social Sciences
     year: 2
-    image: rachel.jpg
+  - name: Hubertus Adhy Pratama Setiawan
+    title: Operations & Logstics Director
+    faculty: School of Computing
+    year: 2
 
 # Marketing
 - members:
-  - name: Agnes Natasya
-    title: Marketing Manager
-    faculty: Faculty of Science
+  - name: Albert Reinardo
+    title: Marketing Director
+    faculty: School of Design and Environment
     year: 2
-    image: agnes.jpg
-  - name: Alexander Runako Chandra
-    title: Marketing Manager
-    faculty: Faculty of Engineering
-    year: 2
-    image: alex.jpg
+  - name: Darren Tan Wee Kok
+    title: Marketing Director
+    faculty: Faculty of Arts and Social Sciences
+    year: 3
 
 # Publicity
 - members:
-  - name: Lim Ting Yee
-    title: Publicity Manager
-    faculty: Faculty of Arts and Social Sciences
-    year: 3
-    image: tingyee.jpg
-  - name: Wang Yuchen
-    title: Publicity Manager
+  - name: Lucia Tirta Gunawan
+    title: Publicity Director
+    faculty: School of Computing
+    year: 2
+  - name: Michela Vieri
+    title: Publicity Director
     faculty: School of Computing
     year: 2
 
 # Technical
 - members:
-  - name: Ryo Chandra Putra A.
-    title: Technical Manager
-    faculty: School of Computing
+  - name: Chong Jing Quan
+    title: Technical Director
+    faculty: Faculty of Science
     year: 2
-    image: ryo.jpg
-  - name: Christian James Welly
-    title: Technical Manager
-    faculty: School of Computing
-    year: 2
-    image: welly.jpg
+  - name: Nicholas Cristian Fernando
+    title: Technical Director
+    faculty: Faculty of Engineering
+    year: 4
 
 # Training
 - members:
-  - name: Matheus Aaron
-    title: Training Manager
-    faculty: School of Computing
-    year: 2
-    image: matheus.jpg
-  - name: Christian Steven Jonathan
-    title: Training Manager
+  - name: Ricky Wahyudi
+    title: Training Director
     faculty: Faculty of Engineering
     year: 2
-    image: steven.jpg
+  - name: Teo Yu Xing
+    title: Training Director
+    faculty: Faculty of Engineering
+    year: 2
 
 # Welfare
 - members:
-  - name: Hans Sebastian Mulyawan
-    title: Welfare Manager
+  - name: Aldo Maximillian Sugito
+    title: Welfare Director
     faculty: Faculty of Engineering
     year: 2
-    image: hans.jpg
-  - name: Felita Eleonora
-    title: Welfare Manager
-    faculty: YST Conservatory of Music
+  - name: Felix Halim
+    title: Welfare Director
+    faculty: School of Computing
     year: 2
-    image: felita.jpg
