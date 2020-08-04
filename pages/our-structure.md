@@ -8,29 +8,32 @@ redirect_from:
  - /cell-duties/
 ---
 
-You do not need to be an IT expert to be part of our family. There are five cells in commIT with people with different talents in it.
+You do not need to be an IT expert to be part of our family. There are six teams in commIT with people with different talents in it.
 
-## Marketing Cell - The Marketers
-<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/marketing.jpg" alt="Marketing Cell members" style="width:80%">
+## Marketing Team - The Marketers
+<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/marketing.jpg" alt="Marketing Team members" style="width:80%">
 
-If you enjoy networking and you would like to brush up your public relation skills, the marketing cell is the place for you. By joining the marketing cell, you will help us to bridge to external organizations like Singtel, Adobe, Fujitsu, DBS etc. Most importantly, you are also our lovely family member and involved in the daily running of the center.
+If you enjoy networking and you would like to brush up your public relation skills, the marketing team is the place for you. By joining the marketing team, you will help us to bridge to external organizations like Singtel, Adobe, Fujitsu, DBS etc. Most importantly, you are also our lovely family member and involved in the daily running of the center.
 
-## Publicity Cell - The Designers
-<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/publicity.jpg" alt="Publicity Cell members" style="width:80%">
+## Publicity Team - The Designers
+<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/publicity.jpg" alt="Publicity Team members" style="width:80%">
 
 If you think you are creative and like to think out of the box, this is the perfect place for you to develop your talents. From designing posters to directing photo shoots for commIT members, you can do anything that you can think of to maintain and improve NUSSU commIT’s good image.
 
-## Technical Cell - The Coders
-<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/technical.jpg" alt="Technical Cell members" style="width:80%">
+## Technical Team - The Coders
+<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/technical.jpg" alt="Technical Team members" style="width:80%">
 
-If you are the kind of person whom your friends always look for when they have troubles with their computers and you are always glad when you can help them, commIT technical cell will help you to develop your IT skill and knowledge by working with people that have same talent as you who will share their skill and knowledge to you as well.
+If you are the kind of person whom your friends always look for when they have troubles with their computers and you are always glad when you can help them, commIT technical team will help you to develop your IT skill and knowledge by working with people that have same talent as you who will share their skill and knowledge to you as well.
 
-## Training Cell - The Teachers
-<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/training.jpg" alt="Training Cell members" style="width:80%">
+## Training Team - The Teachers
+<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/training.jpg" alt="Training Team members" style="width:80%">
 
-If you enjoy learning and sharing your knowledge, you should join the training cell to conduct software training workshops for NUS students. No previous software knowledge is required, but you should have willingness to learn and passion to share your knowledge to others. You will also get the opportunity to improve your confidence and communication skills by being a software trainer.
+If you enjoy learning and sharing your knowledge, you should join the training team to conduct software training workshops for NUS students. No previous software knowledge is required, but you should have willingness to learn and passion to share your knowledge to others. You will also get the opportunity to improve your confidence and communication skills by being a software trainer.
 
-## Welfare Cell - The Funmakers
-<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/welfare.jpg" alt="Welfare Cell members" style="width:80%">
+## Welfare Team - The Funmakers
+<img class="has-shadow" src="{{- site.baseurl -}}/images/cells/welfare.jpg" alt="Welfare Team members" style="width:80%">
 
 If you have the passion to bring joy to people around you, you should be a part of our family and organize fun events for commIT members. No specific skills are required, just a heart to bring joy for commIT and a commitment to serve the NUS community.
+
+## Operations & Logistics Team - The Unsung Heroes
+If you have a good eye for detail and are passionate about serving the NUS community, the operations & logistics team is for you. You will be the pillar of support of commIT who ensures that our computer centres run smoothly and also provide logistics support to all the other teams to ensure that our workshops and events run smoothly.
