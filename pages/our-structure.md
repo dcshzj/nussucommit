@@ -10,6 +10,10 @@ redirect_from:
 
 You do not need to be an IT expert to be part of our family. There are six teams in commIT with people with different talents in it.
 
+## SIGN UP IS NOW OPEN!
+### Sign up now on [NUSync here](http://bit.ly/3a8IxPu). Sign up closes on **Saturday, 22 August 2020 at 23:59 SGT**.
+
+
 ## Marketing Team - The Marketers
 <img class="has-shadow" src="{{- site.baseurl -}}/images/cells/marketing.jpg" alt="Marketing" style="width:80%">
 
