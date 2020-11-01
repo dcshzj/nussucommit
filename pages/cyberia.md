@@ -32,11 +32,6 @@ Do look up for emails once you completed the RSVP and the payment!
 
 Sign up now at [http://bit.ly/Cyberia_2020](http://bit.ly/Cyberia_2020) to upskill yourself! See you in the camp!
 
-<!-- Additional Information (?) -->
-<!-- # Section 2.1 - Additional Information & Sneak Peak & Main Event Page Redirect Link -->
-<!-- May include redirect link to event website and sneakpeak, or past photo -->
-
-
 ## About Acadia Training
 
 [Acadia Training Pte Ltd](https://www.acadia.sg) was established in July 2012. Our main focus is in corporate software training, especially in graphic and web design.
