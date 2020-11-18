@@ -12,7 +12,7 @@ In NUSSU commIT, we strongly encourage our members to be actively involved in ex
 
 ### Cyberia Camp
 
-[<img class="has-shadow" src="{{- site.baseurl -}}/images/cyberia.jpg" alt="Cyberia Camp" style="width:70%">](/events/cyberia/)
+[<img class="has-shadow" src="{{- site.baseurl -}}/images/cyberia.png" alt="Cyberia Camp" style="width:70%">](/events/cyberia/)
 
 This is a 3-day-2-night intensive learning camp where we impart IT skills in a fun and interactive camp setting. Our Adobe software trainings are conducted by IT training professionals during the term break in December. Upon completing the camp, every participant will receive an official training certificate.
 
