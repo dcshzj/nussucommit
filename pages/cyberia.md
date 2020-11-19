@@ -40,13 +40,13 @@ Since day one, we have been an official Training Partner of Adobe System Inc. Al
 
 Although we are a newly-formed company, our team is made up of veterans who have been in the training and design industry with at least 30 years combined experience.
 
-At Acadia Training, our objective is to deliver quality and up-to-date I.T. courses that are relevant to current industry needs and to provide an enriching learning experience for all our customers.
+At Acadia Training, our objective is to deliver quality and up-to-date IT courses that are relevant to current industry needs and to provide an enriching learning experience for all our customers.
 
 ## About the trainer: Ricky Soh
 
-A self-professed technophile, Ricky’s fascination for computer software developed into a passion for sharing his knowledge in I.T. With more than 20 years in the I.T. training industry, Ricky’s extensive experience comes from teaching as a polytechnic lecturer and corporate instructor.
+A self-professed technophile, Ricky’s fascination for computer software developed into a passion for sharing his knowledge in IT With more than 20 years in the IT training industry, Ricky’s extensive experience comes from teaching as a polytechnic lecturer and corporate instructor.
 
-At Ngee Ann Polytechnic, Ricky taught programming languages as well as web design and web development. As a corporate instructor, Ricky has been an Adobe Certified Instructor and Adobe Certified Expert since 2006. Due to his numerous Adobe certifications, he has been conferred the highly coveted title of “Adobe Certified Instructor – Creative Suite Master”. Some of his major clients include GlaxoSmithKline, NOL, AIA, SPH, and Seagate. He has also collaborated with People’s Association in organising and conducting I.T. courses for the public in community clubs.
+At Ngee Ann Polytechnic, Ricky taught programming languages as well as web design and web development. As a corporate instructor, Ricky has been an Adobe Certified Instructor and Adobe Certified Expert since 2006. Due to his numerous Adobe certifications, he has been conferred the highly coveted title of “Adobe Certified Instructor – Creative Suite Master”. Some of his major clients include GlaxoSmithKline, NOL, AIA, SPH, and Seagate. He has also collaborated with People’s Association in organising and conducting IT courses for the public in community clubs.
 
 With his diverse experience and broad knowledge, Ricky is an excellent facilitator whose previous participants have greatly benefitted from his insights. Besides understanding the needs of his participants, Ricky’s strengths are his clear, focussed delivery and his ability to generate enthusiasm. His affable personality and cheerful style means his lessons are always interesting and engaging.
 
