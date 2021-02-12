@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: charITeach 2020
-header: charITeach 2020
+title: charITeach 2021
+header: charITeach 2021
 permalink: /events/chariteach/
 breadcrumb: charITeach
 redirect_from:
@@ -14,20 +14,20 @@ NUSSU commIT strongly believes that knowledge is meant to be shared. Stemming fr
 
 charITeach aims to extend a helping hand to underprivileged children in Singapore through the teaching of IT skills. For the past 5 years, charITeach has been providing Adobe Photoshop training. However, starting from 2019, charITeach provides training for programming using Scratch - a visual programming platform developed by MIT. With the recent development in technology, computational thinking has become an increasingly important skill in today’s working world. It is definitely of great benefit that programming ideas are introduced to children at an early age.
 
-## About charITeach 2020
+## About charITeach 2021
 
-charITeach 2020 is a two-day event, consisting of Volunteer Training on **Saturday, 21st March 2020** and Beneficiaries Invitation on **Saturday, 28th March 2020**.
+Due to COVID 19 restrictions, we have decided to bring our event directly to our beneficiaries! charITeach 2021 will be a 2 day event, Volunteer Training on **Saturday, 20 March 2021, 0800 – 1730** and Beneficiary Invitation (or Volunteer Excursion) on **Saturday, 27 March 2021, 0830 – 1830**.
 
-During Volunteer Training, the volunteers will receive free Scratch training conducted by a professional training company, Code for Asia, in conjunction with the training division of NUSSU commIT. This event serves two purposes: to achieve NUSSU commIT’s aim of providing IT training to the NUS society, as well as to equip the volunteers with the necessary skills to help the beneficiaries during Beneficiaries Invitation.
+During Volunteer Training, passionate volunteers across NUS will be trained on Scratch by professional trainers from Code For Asia and the members of NUSSU commIT training cells. Past organisers and volunteers from charITeach will also teach out volunteers how to interact with and maximise their interactions with our beneficiaries.
 
-During Beneficiaries Invitation, children from various beneficiaries around Singapore will be invited to the NUS campus for a fun introductory course to programming using Scratch conducted by the NUS volunteers. The course will last about 3 hours, with around 2 hours of training and 1 hour of challenge session, where children could develop their own game using Scratch. There will also be games and activities after, to facilitate bonding between the children and volunteers.
+During Beneficiary Invitation, our volunteers and organisers will be heading out to our beneficiaries' place for a fun-filled day of learning and games and activities. The children will learn how to code using Scratch, and then build their own project using the skills they just learned.
 
-NUSSU commIT hopes that through this event, we can become the impetus, the catalyst to a knowledge-sharing community in NUS. charITeach is a meaningful project bound to provide both the participants and beneficiaries a fulfilling experience.
+The charITeach 2021 organising team hopes to continue the mission of charITeach and its nine-year legacy and provide valuable knowledge to both our volunteers and our beneficiaries, as an extension to NUSSU commIT’s own mission.
 
-We invite passionate volunteers to join and contribute to the event. All students are welcome to apply regardless of prior experience or expertise.
+If you are inspired by our mission and would like to join us as a volunteer, sign up with us via the following link: <http://tinyurl.com/chariteach2021>
 
-**Registration is open until 21st February 2020**. To register to the event, please visit: <http://bit.ly/chariteach2020>
+Our event will not be possible without the support of our valuable sponsors. If your organisation would like to help us with our event and take advantage of our various perks, reach out to our marketing team at <marketing@nussucommit.com>.
 
 ## Contact us
 
-Please email at [chariteach@nussucommit.com](mailto:chariteach@nussucommit.com).
+For all other queries, please email us at <chariteach@nussucommit.com>.
