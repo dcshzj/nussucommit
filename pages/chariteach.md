@@ -24,7 +24,7 @@ During Beneficiary Invitation, our volunteers and organisers will be heading out
 
 The charITeach 2021 organising team hopes to continue the mission of charITeach and its nine-year legacy and provide valuable knowledge to both our volunteers and our beneficiaries, as an extension to NUSSU commIT’s own mission.
 
-If you are inspired by our mission and would like to join us as a volunteer, sign up with us via the following link: <http://tinyurl.com/chariteach2021>
+If you are inspired by our mission and would like to join us as a volunteer, sign up with us via the following link: <http://tinyurl.com/chariteach2021>.
 
 Our event will not be possible without the support of our valuable sponsors. If your organisation would like to help us with our event and take advantage of our various perks, reach out to our marketing team at <marketing@nussucommit.com>.
 
