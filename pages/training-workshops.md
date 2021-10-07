@@ -8,7 +8,7 @@ breadcrumb: Services
 
 Aligned with our mission to be the IT training hub in NUS, we are committed to providing highly-demanded training workshops to our NUS community. In every semester, we equip our members with the necessary skills and knowledge needed before embarking with them to spread their knowledge to the NUS community. Most of our workshops are 6-hours long, except for several specialized workshops.
 
-The workshops we will be conducting in AY2020/21 are:
+The workshops we will be conducting in AY2020/21 are (Up to Oct 2021):
 
 - [Workshop registration](#workshop-registration)
 - [Adobe Photoshop](#adobe-photoshop)
