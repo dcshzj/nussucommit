@@ -10,9 +10,9 @@ Aligned with our mission to be the IT training hub in NUS, we are committed to p
 
 The workshops we will be conducting in AY2019/20 are:
 
-* [Microsoft Excel](#microsoft-excel)
-* [Adobe Photoshop](#adobe-photoshop)
-* [Adobe Illustrator](#adobe-illustrator)
+- [Workshop registration](#workshop-registration)
+- [Adobe Photoshop](#adobe-photoshop)
+- [Python](#python)
 
 Additionally, we partner with external organisations to offer some [training workshops taught by external trainers](/external-workshops/), some of which are free!
 
@@ -28,97 +28,69 @@ To go to NUSSU Secretariat: At Yusof Ishak House, from the entrance of the Study
 
 If you have any queries, check out our [Workshops FAQ](/faq/) or [contact us](/contact/).
 
-### Microsoft Excel
-
-Microsoft Excel has been the all-time favorite software for data handling through the use of its versatile spreadsheet layout. Be it to create simple tables and charts, or to handle massive financial records and experimental results, Microsoft Excel is able to manipulate these data into usable information with ease.
-
-Our workshop will cover these topics which will bring you from the introductory page to the basic functions and manipulations in Microsoft Excel:
-
-* Navigation and Interface
-* Basic Formulas
-* Cell Formatting
-* Data Processing (Paste Values, Sort, Filter)
-* View (Freeze Panes, Page Break View)
-* Charts and Graphing
-* Protect
-* Pivot Table and Pivot Chart
-* Functions (IF, HLOOKUP, VLOOKUP)
-
-There will be **two** Microsoft Excel workshops in Semester 2 AY2019/20. The first workshop will be held on:
-
-* **Date**: Saturday, 8 February 2020
-* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: Global Learning Room, Stephen Riady Centre, University Town
-* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5322222>
-
-The second workshop will be held on:
-
-* **Date**: Saturday, 14 March 2020
-* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: Global Learning Room, Stephen Riady Centre, University Town
-* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5322221>
-* **Important note: This workshop has been <u>cancelled</u> due to the suspension of CCAs as advised in circular SDPPVO 07/20**
-
-**Note: Please bring your own laptop with Microsoft Excel installed. We will be using the latest version of [Microsoft Office 365](https://www.office.com).**
-
 ### Adobe Photoshop
 
-The premier and leading graphics-editing software in the world. Used by professional graphic designers to amateur photographers, the Photoshop skill has proven to be vital in differentiating oneself. Be it to create viral, hoax photos or beautifying one’s looks, we are there to provide you with the necessary skills.
+Wondering how to create viral, hoax photos or beautifying one’s looks? Join our Digital Photo Editing workshop this Saturday to learn more and upskill yourself!
 
-* Navigation and Interface
-* Basic Tools (Text, Brush, Eraser)
-* Selection Tools
-* Introduction to Layers
-* Layer Masking
-* Layer Style
-* Layer Blending Modes
-* Healing Tools, Dodge, Burn, Blur, Sharpen
-* Selective Adjustments
-* Filter, Liquify
+Digital Photo Editing skill remains one of the most sought skills in the workplace, be it Photoshop or Photopea. With amateur to professional photographers using this software, the digital photo editing skill has proven to be vital in differentiating oneself. We are here to bridge digital literacy gaps where we equip you with the skills.
 
-There will be **three** Adobe Photoshop workshops in Semester 2 AY2019/20. The first workshop will be held on:
+As part of NUSSU commIT mission to be the IT training hub for students in NUS, we will be providing a **free introductory workshop on Photopea and Photoshop**. This workshop is targeted at students who have little to no background in photo editing.
 
-* **Date**: Saturday, 1 February 2020
-* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: PC Cluster 5 & 6 (Blk E2 03-08/09), Faculty of Engineering
-* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395745>
+Topics we will cover:
 
-The second workshop will be held on:
+- Essential basic
+- Selections and Transformation
+- Introduction to Layers
+- Masking
+- Effects and Enhancements
+- Fun hands-on practices
 
-* **Date**: Saturday, 14 March 2020
-* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: PC Cluster 4 & 5 (Blk E2 03-07/08), Faculty of Engineering
-* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395743>
-* **Important note: This workshop has been <u>cancelled</u> due to the suspension of CCAs as advised in circular SDPPVO 07/20**
+Why join our workshop when you can watch YouTube tutorials?
+Photo editing software is very difficult for newbies and most of the time you will need one-on-one guidance and our workshop provides the guidance and resources that you need the most. Our helpers will use Zoom remote desktop to help you -- debug whenever you're stuck, give you in-depth explanations and tips!
 
-The third workshop will be held on:
+The first workshop will be held on:
 
-* **Date**: Saturday, 4 April 2020
-* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: PC Cluster 4 (Blk E2 03-07), Faculty of Engineering
-* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395742>
+- **Date**: Saturday, 09th October 2021
+- **Time**: 10:00 – 16:00 (with multiple breaks)
+- **Venue**: Online (Zoom)
+- **RSVP Link**: <https://bit.ly/JoinCommITWorkshop>
 
-### Adobe Illustrator
+Participants may join the workshop with either Adobe Photoshop or Photopea. NUSSU commIT does not provide Adobe Photoshop software to participants. Participants who would like to install Photoshop free trial can visit this website: <https://www.adobe.com/sea/products/photoshop/free-trial-download.html>. For Photopea, no installation is needed, just visit <https://www.photopea.com/> to get started.
 
-Another one from the Adobe family, the world’s best digital editing software, Illustrator is the go-to program for professional vector drawing and editing. Create scalable vector artwork with no loss of resolution for use both in print and digital form using Illustrator. In this workshop, we will be teaching the essentials of the software Illustrator and practicing a simulation of the workflow of a graphic designer – from paper to screen.
+We will only be opening up **60 slots** for our Digital Photo Editing workshop. These slots will be given on a **first-come-first-serve basis.**
 
-* Navigation and Interface
-* Tools Panel
-* Building Shapes
-* Lines, Curve and Sketching
-* Image Tracing
-* Effects
+### Python
 
-There will be **two** Adobe Illustrator workshops in Semester 2 AY2019/20. The first workshop will be held on:
+Nowadays, programming skills are becoming more and more essential for students, no matter the faculty or domain of study. Having some programming experiences will undoubtedly strengthen your resume for your future internship and job searches. The programming/computational thinking methodology is also useful in logical problem-solving and analysis.
 
-* **Date**: Saturday, 15 February 2020
-* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: PC Cluster 4 & 5 (Blk E2 03-07/08), Faculty of Engineering
-* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395744>
+As part of NUSSU commIT’s mission to be the IT training hub for students in NUS, we will be conducting a **free introductory workshop on Python**. This workshop is targeted at students who have little to no background in Python.
 
-The second workshop will be held on:
+Don't know how to kick start your coding journey? Curious about why we need to learn python? Curious about how python can help you with your career and daily life?
 
-* **Date**: Saturday, 4 April 2020
-* **Time**: 10:00 – 16:00 (inclusive of 1 hour break)
-* **Venue**: PC Cluster 5 (Blk E2 03-08), Faculty of Engineering
-* **RSVP Link**: <https://nus.campuslabs.com/engage/event/5395741>
+Have a productive Saturday by learning Python through fun & hands-on coding experience.
+
+The workshop is conducted in a seminar and project-based style. No prior experience is required.
+
+The syllabus for the workshop is as follows:
+
+- **Essentials/Basics**
+  - Data types
+  - String, list and set
+  - Looping
+  - Conditional statement
+  - Function
+- **Projects**
+  - Hangman
+  - Number Guessing
+  - Caesar Cipher
+
+The first workshop will be held on:
+
+- **Date**: Saturday, 23rd October 2021
+- **Time**: 10:00 – 16:00 (with multiple breaks)
+- **Venue**: Online (Zoom)
+- **RSVP Link**: <https://bit.ly/JoinCommITWorkshop1>
+
+During the workshop, participants will use the Google Colab platform to do real-time coding (<https://colab.research.google.com/>).
+
+We will only be opening up to **60 slots** for our Python workshop. These slots will be given on a **first-come-first-serve basis**.
