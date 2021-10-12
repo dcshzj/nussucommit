@@ -13,6 +13,7 @@ The workshops we will be conducting in AY2020/21 are (Up to Oct 2021):
 - [Workshop registration](#workshop-registration)
 - [Adobe Photoshop](#adobe-photoshop)
 - [Python](#python)
+- [Microsoft Excel](#microsoft-excel)
 
 Additionally, we partner with external organisations to offer some [training workshops taught by external trainers](/external-workshops/), some of which are free!
 
@@ -94,3 +95,34 @@ The first workshop will be held on:
 During the workshop, participants will use the Google Colab platform to do real-time coding (<https://colab.research.google.com/>).
 
 We will only be opening up to **60 slots** for our Python workshop. These slots will be given on a **first-come-first-serve basis**.
+
+### Microsoft Excel
+
+Part of the Microsoft Office suite, **Microsoft Excel** is a powerful software used by many organizations to store, manipulate, organize as well as summarise large amounts of data through its versatile spreadsheet layout. Some real-world examples that Microsoft Excel is used in include: creating and formatting tables and charts for presentations, compiling financial records of customers’ accounts as well as summarising and compiling experiment results.
+
+As part of **NUSSU commIT**’s mission to be the IT training hub for students in NUS, we will be providing a **free basic Microsoft Excel workshop**. This workshop is targeted at students who have little to no background in using Microsoft Excel and will cover topics (non-exhaustive) such as SUM, IF, PivotCharts, and PivotTables.
+
+The syllabus for the workshop is as follows:
+
+- Basic Interface
+- Useful Formula
+- VLOOKUP, HLOOKUP
+- PivotCharts
+- PivotTables
+
+The workshop will feature a team of helpers ready to answer all your queries!
+
+Why join our workshop if you can watch YouTube tutorials? Because programming is very difficult for beginners and most of the time you will need **one-on-one guidance**. Our workshop will provide you with all the guidance you need! Our helpers will use Zoom remote desktop to help you debug whenever you're stuck (with in-depth explanations and tips)!
+
+The first workshop will be held on:
+
+- **Date**: Saturday, 30th October 2021
+- **Time**: 10:00 – 16:00 (with multiple breaks)
+- **Venue**: Online (Zoom)
+- **RSVP Link**: <https://bit.ly/JoinCommITWorkshop2>
+
+We will only be opening up to 90 slots for our Excel workshop. These slots will be given on a **first-come-first-serve basis**.
+
+---
+
+For further enquiries, you may contact us at [workshops@nussucommit.com](mailto:workshops@nussucommit.com). We hope to see you in our workshops!
