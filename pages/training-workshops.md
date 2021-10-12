@@ -121,7 +121,7 @@ The first workshop will be held on:
 - **Venue**: Online (Zoom)
 - **RSVP Link**: <https://bit.ly/JoinCommITWorkshop2>
 
-We will only be opening up to 90 slots for our Excel workshop. These slots will be given on a **first-come-first-serve basis**.
+We will only be opening up to **90 slots** for our Excel workshop. These slots will be given on a **first-come-first-serve basis**.
 
 ---
 
