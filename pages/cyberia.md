@@ -1,16 +1,16 @@
 ---
 layout: simple-page
-title: Cyberia Camp 2020
-header: Cyberia Camp 2020
+title: Cyberia Camp 2021
+header: Cyberia Camp 2021
 permalink: /events/cyberia/
 breadcrumb: Cyberia Camp
 redirect_from:
   - /cyberia/
 ---
 
-![cyberia2020Poster]({{site.baseurl}}/images/cyberia.png)
+![cyberia2021Poster]({{site.baseurl}}/images/cyberia.jpeg)
 
-Cyberia 2020 is an annual Adobe Photoshop boot camp organized by NUSSU commIT, which aims to impart graphic design knowledge and skills to the participants to strengthen their skill set.
+Cyberia 2021 is an annual Adobe Photoshop boot camp organized by NUSSU commIT, which aims to impart graphic design knowledge and skills to the participants to strengthen their skill set.
 You will learn Adobe Photoshop with **training conducted by a certified professional Adobe Photoshop trainer** and **a series of challenging and exciting games**.
 At the end of the camp, you will have the opportunity to put all the skills you learn to test by producing an artwork in our **competition** and stand to **win attractive prizes**!
 
@@ -20,7 +20,9 @@ At the end of the camp, you will have the opportunity to put all the skills you 
 - Camp T-shirt
 - Goodie bag
 
-**Details of Cyberia 2020:**
+**Details of Cyberia 2021:**
+
+<!-- need to change -->
 
 - **Date:** 7th - 9th December 2020
 - **Camp fee:** $30 **(worth $450)**
@@ -29,6 +31,8 @@ At the end of the camp, you will have the opportunity to put all the skills you 
 **Note**: The allocation of spaces are based on first-come-first-served basis based on the payment of camp fee. Your RSVP will only be confirmed upon completion of payment of camp fee. **No refund can be made upon payment.**
 
 Do look up for emails once you completed the RSVP and the payment!
+
+<!-- %%need to change%% -->
 
 Sign up now at [http://bit.ly/Cyberia_2020](http://bit.ly/Cyberia_2020) to upskill yourself! See you in the camp!
 
@@ -42,17 +46,11 @@ Although we are a newly-formed company, our team is made up of veterans who have
 
 At Acadia Training, our objective is to deliver quality and up-to-date IT courses that are relevant to current industry needs and to provide an enriching learning experience for all our customers.
 
-## About the trainer: Ricky Soh
+## About the trainer: Han Guangwen
 
-A self-professed technophile, Ricky’s fascination for computer software developed into a passion for sharing his knowledge in IT With more than 20 years in the IT training industry, Ricky’s extensive experience comes from teaching as a polytechnic lecturer and corporate instructor.
+Han is an Adobe Certified Instructor, Certified Expert Specialist and Certified Expert Master in both Design and Web. Han graduated from the prestigious Bachelor of Design (Communication Design) program as a Distinction holder and worked as a successful graphic designer before switching to his true passion - training.
 
-At Ngee Ann Polytechnic, Ricky taught programming languages as well as web design and web development. As a corporate instructor, Ricky has been an Adobe Certified Instructor and Adobe Certified Expert since 2006. Due to his numerous Adobe certifications, he has been conferred the highly coveted title of “Adobe Certified Instructor – Creative Suite Master”. Some of his major clients include GlaxoSmithKline, NOL, AIA, SPH, and Seagate. He has also collaborated with People’s Association in organising and conducting IT courses for the public in community clubs.
-
-With his diverse experience and broad knowledge, Ricky is an excellent facilitator whose previous participants have greatly benefitted from his insights. Besides understanding the needs of his participants, Ricky’s strengths are his clear, focussed delivery and his ability to generate enthusiasm. His affable personality and cheerful style means his lessons are always interesting and engaging.
-
-In September 2016, he obtained his Advanced Certificate in Training and Assessment (ACTA). It is a programme under the Singapore Workforce Skills Qualifications (WSQ) that certifies the recipient with the essential skills to deliver training and assessments across different industries.
-
-Ricky is also a paper craft designer and author/publisher of two book titles that are currently being retailed in all four branches of Kinokuniya Book Stores.
+With detailed explanations and humorous style, Han’s trainees gain a strong understanding of each design tool and technique in a fun and easy-going setting. Emphasizing on the practicality of each design approach, Han backs each lesson with industrial-relevant scenarios, examples and case studies. As a dedicated trainer, Han’s trainees benefit from having him as a supportive advisor in their projects after attending his courses.
 
 ## Contact Us
 
