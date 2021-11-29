@@ -24,9 +24,12 @@ At the end of the camp, you will have the opportunity to put all the skills you 
 
 <!-- need to change -->
 
-- **Date:** 7th - 9th December 2020
+- **Date:** 17th - 19th December 2020
 - **Camp fee:** $30 **(worth $450)**
-- **Venue:** Fully online
+- **Venue:**
+  - Online via Zoom
+  - Offline in PC Clusters in E2
+
 
 **Note**: The allocation of spaces are based on first-come-first-served basis based on the payment of camp fee. Your RSVP will only be confirmed upon completion of payment of camp fee. **No refund can be made upon payment.**
 
@@ -34,7 +37,7 @@ Do look up for emails once you completed the RSVP and the payment!
 
 <!-- %%need to change%% -->
 
-Sign up now at [http://bit.ly/Cyberia_2020](http://bit.ly/Cyberia_2020) to upskill yourself! See you in the camp!
+Sign up now at [http://bit.ly/Cyberia_2021](http://bit.ly/Cyberia_2021) to upskill yourself! See you in the camp!
 
 ## About Acadia Training
 
