@@ -44,7 +44,7 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 # - exams: Exam period operating hours
 # - holidays: Holiday period operating hours
 # Refer to below section to change the actual hours
-operating-type: exams
+operating-type: holidays
 
 ###### DO NOT TOUCH BELOW THIS LINE UNLESS YOU KNOW WHAT YOU ARE DOING!!! ######
 # Sponsor details
