@@ -40,4 +40,4 @@ Winning designs were awarded amazing prizes such as Apple iPad and Nintendo Swit
 
 ## Contact us
 
-Visit [creation2023.nussucommit.com](https://creation2023.nussucommit.com/) for more information!. See you in CREATION 2023!
+Visit [creation2023.nussucommit.com](https://creation2023.nussucommit.com/) for more information! See you in CREATION 2023!
